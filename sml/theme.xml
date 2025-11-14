@@ -1,0 +1,1472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme id="sml" name="SuperMarioLogan Theme!">
+	<char id="mario" name="Mario" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="60" money="0" sharing="0">
+        <tag>cat:SML Plushs</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="bowser jr" name="Bowser Jr" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="61" money="0" sharing="0">
+        <tag>cat:SML Plushs</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="wings.swf" name="Wings" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="joseph" name="Joseph" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="62" money="0" sharing="0">
+        <tag>cat:SML Plushs</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="wings.swf" name="Wings" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="cody" name="Cody" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="63" money="0" sharing="0">
+        <tag>cat:SML Plushs</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="bowser" name="Bowser" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="64" money="0" sharing="0">
+        <tag>cat:SML Plushs</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="rosalina" name="Rosalina" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="65" money="0" sharing="0">
+        <tag>cat:SML Plushs</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="toad" name="Toad" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="66" money="0" sharing="0">
+        <tag>cat:SML Plushs</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="toadette" name="Toadette" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="67" money="0" sharing="0">
+        <tag>cat:SML Plushs</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="luigi" name="Luigi" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="68" money="0" sharing="0">
+        <tag>cat:SML Plushs</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>        
+        <char id="black yoshi" name="Black Yoshi" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="69" money="0" sharing="0">
+        <tag>cat:SML Plushs</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="sherk" name="Sherk" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="70" money="0" sharing="0">
+        <tag>cat:SML Plushs</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="marvin" name="Marvin" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="60" money="0" sharing="0">
+        <tag>cat:Human Puppets</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="rosa" name="Rosa" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="61" money="0" sharing="0">
+        <tag>cat:Human Puppets</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="jeffy" name="Jeffy" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="62" money="0" sharing="0">
+        <tag>cat:Human Puppets</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="jr" name="JR Puppet" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="63" money="0" sharing="0">
+        <tag>cat:Human Puppets</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="joseph2" name="Joseph Puppet" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="64" money="0" sharing="0">
+        <tag>cat:Human Puppets</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="cody2" name="Cody Puppet" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="65" money="0" sharing="0">
+        <tag>cat:Human Puppets</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="logan" name="Logan" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="66" money="0" sharing="0">
+        <tag>cat:Human Puppets</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="chefpp" name="Chef PP" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="67" money="0" sharing="0">
+        <tag>cat:Human Puppets</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="chilly" name="Chilly" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="68" money="0" sharing="0">
+        <tag>cat:Human Puppets</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="lovell" name="Lovell Stanton" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="69" money="0" sharing="0">
+        <tag>cat:Human Puppets</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="lance" name="Lance_Thirtyacre" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="70" money="0" sharing="0">
+        <tag>cat:Human Puppets</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="tito" name="Tito" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="71" money="0" sharing="0">
+        <tag>cat:Human Puppets</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="poopy" name="Chris Netherton" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="72" money="0" sharing="0">
+        <tag>cat:Human Puppets</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="eleina" name="Elaina Keyes" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="73" money="0" sharing="0">
+        <tag>cat:Human Puppets</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="scooter" name="Scooter" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="74" money="0" sharing="0">
+        <tag>cat:Human Puppets</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="jr dad puppet" name="Jr Dad Puppet" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="75" money="0" sharing="0">
+        <tag>cat:Human Puppets</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="penelope" name="Penelope" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="76" money="0" sharing="0">
+        <tag>cat:Human Puppets</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="bully" name="Bully" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="77" money="0" sharing="0">
+        <tag>cat:Human Puppets</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="Lil_T" name="Lil_T Puppet" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="78" money="0" sharing="0">
+        <tag>cat:Human Puppets</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="sonic" name="Sonic" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="60" money="0" sharing="0">
+        <tag>cat:Titototter</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="tails" name="Tails" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="61" money="0" sharing="0">
+        <tag>cat:Titototter</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="knuckles" name="Knuckles" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="62" money="0" sharing="0">
+        <tag>cat:Titototter</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="amy" name="Amy" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="63" money="0" sharing="0">
+        <tag>cat:Titototter</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="shadow" name="Shadow" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="64" money="0" sharing="0">
+        <tag>cat:Titototter</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="jet" name="Jet" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="65" money="0" sharing="0">
+        <tag>cat:Titototter</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="brooklyn t guy" name="Brooklyn T Guy" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="60" money="0" sharing="0">
+        <tag>cat:[FIX] Brooklyn T Guy Outfits</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="brooklyn t guy cop" name="Brooklyn T Guy Cop" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="61" money="0" sharing="0">
+        <tag>cat:[FIX] Brooklyn T Guy Outfits</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="brooklyn t guy docter" name="Brooklyn T Guy Docter" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="62" money="0" sharing="0">
+        <tag>cat:[FIX] Brooklyn T Guy Outfits</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="brooklyn_guy_fire_fighter" name="Brooklyn T Guy Fire Fighter" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="60" money="0" sharing="0">
+        <tag>cat:Brooklyn T Guy Outfits</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="holdiayjr" name="HoldiayJR" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="60" money="0" sharing="0">
+        <tag>cat:Holdiay Chracters</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="holdiaycody" name="HoldiayCody" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="61" money="0" sharing="0">
+        <tag>cat:Holdiay Chracters</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="holdiayjoseph" name="HoldiayJoseph" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="62" money="0" sharing="0">
+        <tag>cat:Holdiay Chracters</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="elfjeffy" name="Elf Jeffy" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="63" money="0" sharing="0">
+        <tag>cat:Holdiay Chracters</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="crying.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <background id="sml living room1.swf" name="SML Living Room1" enable="Y" default="N" is_premium="N" aid="20514" money="0" sharing="0" />
+        <background id="sml house.swf" name="SML House" enable="Y" default="N" is_premium="N" aid="20515" money="0" sharing="0" />
+        <background id="playroomtemplate.swf" name="PlayroomTemplate" enable="Y" default="N" is_premium="N" aid="20516" money="0" sharing="0" />
+        <background id="jr room.swf" name="Jr room" enable="Y" default="N" is_premium="N" aid="20517" money="0" sharing="0" />
+        <background id="bowser room template.swf" name="Bowser Room Template" enable="Y" default="N" is_premium="N" aid="20518" money="0" sharing="0" />
+        <background id="school template.swf" name="School Template" enable="Y" default="N" is_premium="N" aid="20519" money="0" sharing="0" />
+        <background id="teaching classtemplate.swf" name="TeachingClassTemplate" enable="Y" default="N" is_premium="N" aid="20520" money="0" sharing="0" />
+        <background id="student desk.swf" name="Student Desk" enable="Y" default="N" is_premium="N" aid="20521" money="0" sharing="0" />
+        <background id="kicktentable.swf" name="KicktenTable" enable="Y" default="N" is_premium="N" aid="20522" money="0" sharing="0" />
+        <background id="cooking.swf" name="Cooking" enable="Y" default="N" is_premium="N" aid="20523" money="0" sharing="0" />
+        <background id="jr bathroom.swf" name="JR Bathroom" enable="Y" default="N" is_premium="N" aid="20524" money="0" sharing="0" />
+        <background id="newroom.swf" name="New Room" enable="Y" default="N" is_premium="N" aid="20525" money="0" sharing="0" />
+<compositebg id="sml living room1" name="SML Living Room" enable="Y" default="N" thumb="sml living room.png" display_order="0" is_premium="N" money="0" sharing="0" aid="4915">
+	<bg id="sml living room" index="0">
+		<file>sml.sml living room1.swf</file>
+	</bg>
+        <prop id="PROP4" index="1">
+      <file>sml.window daytime.swf</file>
+      <x>242.0305269</x>
+      <y>107.553551</y>
+      <xscale>0.185401</xscale>
+      <yscale>0.185401</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP6" index="2">
+      <file>sml.window daytime.swf</file>
+      <x>407.6305269</x>
+      <y>107.545365</y>
+      <xscale>0.185401</xscale>
+      <yscale>0.185401</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP7" index="3">
+      <file>sml.carpet.swf</file>
+      <x>318.8410596</x>
+      <y>298.403551</y>
+      <xscale>0.3079999</xscale>
+      <yscale>0.3079999</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="4">
+      <file>sml.sofa.swf</file>
+      <x>318.825</x>
+      <y>220.4</y>
+      <xscale>0.3619579</xscale>
+      <yscale>0.3619579</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="5">
+      <file>sml.2nd sofa.swf</file>
+      <x>542.5305269</x>
+      <y>224.9499293</y>
+      <xscale>0.5014141</xscale>
+      <yscale>0.5014141</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+<compositebg id="sml house" name="SML House" enable="Y" default="N" thumb="sml house.png" display_order="1" is_premium="N" money="0" sharing="0" aid="4916">
+	<bg id="sml house" index="0">
+		<file>sml.sml house.swf</file>
+	</bg>
+        <prop id="PROP4" index="1">
+      <file>sml.house.swf</file>
+      <x>316.9141143</x>
+      <y>188.538445</y>
+      <xscale>0.4354275</xscale>
+      <yscale>0.4354275</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="2">
+      <file>sml.grass.swf</file>
+      <x>155.7302978</x>
+      <y>299.103551</y>
+      <xscale>0.0939224</xscale>
+      <yscale>0.0939224</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP7" index="3">
+      <file>sml.grass.swf</file>
+      <x>230.3333333</x>
+      <y>299.125</y>
+      <xscale>0.0939224</xscale>
+      <yscale>0.0939224</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="4">
+      <file>sml.grass.swf</file>
+      <x>187.6802978</x>
+      <y>299.15</y>
+      <xscale>0.0939224</xscale>
+      <yscale>0.0939224</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP10" index="5">
+      <file>sml.grass.swf</file>
+      <x>378.775</x>
+      <y>294.075</y>
+      <xscale>0.087078</xscale>
+      <yscale>0.087078</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP12" index="6">
+      <file>sml.grass.swf</file>
+      <x>432.875</x>
+      <y>297.55</y>
+      <xscale>0.087078</xscale>
+      <yscale>0.087078</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP13" index="7">
+      <file>sml.grass.swf</file>
+      <x>483.825</x>
+      <y>300.75</y>
+      <xscale>0.087078</xscale>
+      <yscale>0.087078</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP14" index="8">
+      <file>sml.grass.swf</file>
+      <x>348.975</x>
+      <y>297.5</y>
+      <xscale>0.0953488</xscale>
+      <yscale>0.0953488</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+<compositebg id="playroom" name="SML Playroom" enable="Y" default="N" thumb="playroom.png" display_order="2" is_premium="N" money="0" sharing="0" aid="4917">
+	<bg id="playroom" index="0">
+		<file>sml.playroomtemplate.swf</file>
+	</bg>
+        <prop id="PROP4" index="1">
+      <file>sml.window daytime.swf</file>
+      <x>114.1805269</x>
+      <y>106.1443557</y>
+      <xscale>0.2257734</xscale>
+      <yscale>0.2257734</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP6" index="2">
+      <file>sml.window daytime.swf</file>
+      <x>269.0805269</x>
+      <y>106.1693557</y>
+      <xscale>0.2257734</xscale>
+      <yscale>0.2257734</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP7" index="3">
+      <file>sml.door.swf</file>
+      <x>566.0856878</x>
+      <y>193.7856878</y>
+      <xscale>0.2417807</xscale>
+      <yscale>0.2417807</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="4">
+      <file>sml.sml picture.swf</file>
+      <x>429.0705171</x>
+      <y>100.603551</y>
+      <xscale>0.1793155</xscale>
+      <yscale>0.1793155</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP10" index="7">
+      <file>sml.playroom table.swf</file>
+      <x>117.9447669</x>
+      <y>247.6122925</y>
+      <xscale>0.2093251</xscale>
+      <yscale>0.2093251</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP11" index="5">
+      <file>sml.blue chair.swf</file>
+      <x>86.7180009</x>
+      <y>231.1694966</y>
+      <xscale>0.2201349</xscale>
+      <yscale>0.2201349</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP13" index="6">
+      <file>sml.green chair.swf</file>
+      <x>183.0180009</x>
+      <y>227.3194966</y>
+      <xscale>0.2201349</xscale>
+      <yscale>0.2201349</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP14" index="8">
+      <file>sml.red chair.swf</file>
+      <x>117.9305034</x>
+      <y>243.6194966</y>
+      <xscale>0.2201349</xscale>
+      <yscale>0.2201349</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP15" index="9">
+      <file>sml.tranpoline.swf</file>
+      <x>312.55</x>
+      <y>279.025</y>
+      <xscale>0.3043648</xscale>
+      <yscale>0.3043648</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+<compositebg id="jr old room" name="Bowser JR Room" enable="Y" default="N" thumb="jr old room.png" display_order="2" is_premium="N" money="0" sharing="0" aid="4918">
+	<bg id="jr old room" index="0">
+		<file>sml.jr room.swf</file>
+	</bg>
+        <prop id="PROP8" index="1">
+      <file>sml.window daytime.swf</file>
+      <x>112.2302978</x>
+      <y>104.5445071</y>
+      <xscale>0.2289518</xscale>
+      <yscale>0.2289518</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP10" index="2">
+      <file>sml.window daytime.swf</file>
+      <x>284.7802978</x>
+      <y>104.4692762</y>
+      <xscale>0.2289518</xscale>
+      <yscale>0.2289518</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP11" index="3">
+      <file>sml.door.swf</file>
+      <x>530.5804124</x>
+      <y>161.703551</y>
+      <xscale>0.2729632</xscale>
+      <yscale>0.2729632</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP12" index="5">
+      <file>sml.blue and green carpet.swf</file>
+      <x>193.764817</x>
+      <y>284.539817</y>
+      <xscale>0.4073219</xscale>
+      <yscale>0.4073219</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP13" index="6">
+      <file>sml.thomas.swf</file>
+      <x>185.8902308</x>
+      <y>252.6402308</y>
+      <xscale>0.3907681</xscale>
+      <yscale>0.3907681</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP14" index="4">
+      <file>sml.jr bed.swf</file>
+      <x>442.1596865</x>
+      <y>212.703551</y>
+      <xscale>0.3874613</xscale>
+      <yscale>0.3874613</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+<compositebg id="bowser room" name="Bowser Room" enable="Y" default="N" thumb="bowser room.png" display_order="3" is_premium="N" money="0" sharing="0" aid="4919">
+	<bg id="bowser room" index="0">
+		<file>sml.bowser room template.swf</file>
+	</bg>
+        <prop id="PROP6" index="1">
+      <file>sml.window daytime.swf</file>
+      <x>197.5238873</x>
+      <y>105.2194421</y>
+      <xscale>0.222316</xscale>
+      <yscale>0.222316</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="2">
+      <file>sml.window daytime.swf</file>
+      <x>445.6738873</x>
+      <y>105.2194421</y>
+      <xscale>0.222316</xscale>
+      <yscale>0.222316</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="3">
+      <file>sml.bowser bed.swf</file>
+      <x>219.1388325</x>
+      <y>230.4651506</y>
+      <xscale>0.3939753</xscale>
+      <yscale>0.3939753</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+<compositebg id="sml school" name="SML School" enable="Y" default="N" thumb="sml school.png" display_order="4" is_premium="N" money="0" sharing="0" aid="4920">
+	<bg id="sml school" index="0">
+		<file>sml.school template.swf</file>
+	</bg>
+        <prop id="PROP3" index="1">
+      <file>sml.road.swf</file>
+      <x>163.310989</x>
+      <y>321.7262748</y>
+      <xscale>0.4322443</xscale>
+      <yscale>0.4322443</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="2">
+      <file>sml.road.swf</file>
+      <x>420.910989</x>
+      <y>321.6891939</y>
+      <xscale>0.4322443</xscale>
+      <yscale>0.4322443</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP6" index="3">
+      <file>sml.road.swf</file>
+      <x>679.760989</x>
+      <y>321.6891939</y>
+      <xscale>0.4322443</xscale>
+      <yscale>0.4322443</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP11" index="7">
+      <file>sml.flag.swf</file>
+      <x>199.8158693</x>
+      <y>164.6670846</y>
+      <xscale>0.3166163</xscale>
+      <yscale>0.3166163</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP12" index="6">
+      <file>sml.school.swf</file>
+      <x>337.1305269</x>
+      <y>164.7</y>
+      <xscale>0.3356881</xscale>
+      <yscale>0.3356881</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP13" index="4">
+      <file>sml.big tree.swf</file>
+      <x>553.2802978</x>
+      <y>189.453551</y>
+      <xscale>0.213027</xscale>
+      <yscale>0.213027</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP15" index="5">
+      <file>sml.big tree.swf</file>
+      <x>85.1302978</x>
+      <y>189.425</y>
+      <xscale>0.213027</xscale>
+      <yscale>0.213027</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+<compositebg id="teaching" name="Teaching In Class" enable="Y" default="N" thumb="teaching.png" display_order="5" is_premium="N" money="0" sharing="0" aid="4921">
+	<bg id="teaching" index="0">
+		<file>sml.teaching classtemplate.swf</file>
+	</bg>
+        <prop id="PROP3" index="3">
+      <file>sml.school borad.swf</file>
+      <x>317.5436162</x>
+      <y>142.825</y>
+      <xscale>0.2553535</xscale>
+      <yscale>0.2553535</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP4" index="1">
+      <file>sml.shapes.swf</file>
+      <x>497.7703786</x>
+      <y>139.6703786</y>
+      <xscale>0.184854</xscale>
+      <yscale>0.184854</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="2">
+      <file>sml.clock.swf</file>
+      <x>317.5219859</x>
+      <y>73.625</y>
+      <xscale>0.1205649</xscale>
+      <yscale>0.1205649</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP6" index="4">
+      <file>sml.trash.swf</file>
+      <x>74.4304124</x>
+      <y>236.0433829</y>
+      <xscale>0.2646828</xscale>
+      <yscale>0.2646828</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+<compositebg id="studentdesk" name="StudentsDesk" enable="Y" default="N" thumb="studentdesk.png" display_order="6" is_premium="N" money="0" sharing="0" aid="4922">
+	<bg id="studentdesk" index="0">
+		<file>sml.student desk.swf</file>
+	</bg>
+        <prop id="PROP3" index="3">
+      <file>sml.school borad.swf</file>
+      <x>321.9976256</x>
+      <y>105.653551</y>
+      <xscale>0.0929198</xscale>
+      <yscale>0.0929198</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP4" index="1">
+      <file>sml.shapes.swf</file>
+      <x>406.4805269</x>
+      <y>105.6731939</y>
+      <xscale>0.0722446</xscale>
+      <yscale>0.0722446</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP7" index="2">
+      <file>sml.clock.swf</file>
+      <x>321.9972858</x>
+      <y>80.775</y>
+      <xscale>0.1085661</xscale>
+      <yscale>0.1085661</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="4">
+      <file>sml.bigtable.swf</file>
+      <x>145.0918434</x>
+      <y>195.2574807</y>
+      <xscale>0.1832312</xscale>
+      <yscale>0.1832312</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP10" index="5">
+      <file>sml.computer.swf</file>
+      <x>139.3805269</x>
+      <y>140.253551</y>
+      <xscale>0.0886142</xscale>
+      <yscale>0.0886142</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP11" index="6">
+      <file>sml.trash.swf</file>
+      <x>235.1302978</x>
+      <y>211.3231445</y>
+      <xscale>0.0742197</xscale>
+      <yscale>0.0742197</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP12" index="7">
+      <file>sml.playroom table.swf</file>
+      <x>103.9804124</x>
+      <y>241.6972247</y>
+      <xscale>0.1110116</xscale>
+      <yscale>0.1110116</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP13" index="8">
+      <file>sml.blue chair.swf</file>
+      <x>91.9714346</x>
+      <y>245.503551</y>
+      <xscale>0.1267899</xscale>
+      <yscale>0.1267899</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP16" index="9">
+      <file>sml.playroom table.swf</file>
+      <x>230.8887457</x>
+      <y>241.6972247</y>
+      <xscale>0.1110116</xscale>
+      <yscale>0.1110116</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP17" index="10">
+      <file>sml.blue chair.swf</file>
+      <x>218.8797679</x>
+      <y>245.503551</y>
+      <xscale>0.1267899</xscale>
+      <yscale>0.1267899</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP18" index="11">
+      <file>sml.playroom table.swf</file>
+      <x>353.2804124</x>
+      <y>241.6722247</y>
+      <xscale>0.1110116</xscale>
+      <yscale>0.1110116</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP19" index="12">
+      <file>sml.blue chair.swf</file>
+      <x>341.2714346</x>
+      <y>245.478551</y>
+      <xscale>0.1267899</xscale>
+      <yscale>0.1267899</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP20" index="13">
+      <file>sml.playroom table.swf</file>
+      <x>475.6804124</x>
+      <y>241.7222247</y>
+      <xscale>0.1110116</xscale>
+      <yscale>0.1110116</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP21" index="14">
+      <file>sml.blue chair.swf</file>
+      <x>463.6714346</x>
+      <y>245.528551</y>
+      <xscale>0.1267899</xscale>
+      <yscale>0.1267899</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP22" index="15">
+      <file>sml.playroom table.swf</file>
+      <x>101.5554124</x>
+      <y>306.8972247</y>
+      <xscale>0.1110116</xscale>
+      <yscale>0.1110116</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP23" index="16">
+      <file>sml.blue chair.swf</file>
+      <x>89.5464346</x>
+      <y>310.703551</y>
+      <xscale>0.1267899</xscale>
+      <yscale>0.1267899</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP24" index="17">
+      <file>sml.playroom table.swf</file>
+      <x>231.9304124</x>
+      <y>306.9222247</y>
+      <xscale>0.1110116</xscale>
+      <yscale>0.1110116</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP25" index="18">
+      <file>sml.blue chair.swf</file>
+      <x>219.9214346</x>
+      <y>310.728551</y>
+      <xscale>0.1267899</xscale>
+      <yscale>0.1267899</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP26" index="19">
+      <file>sml.playroom table.swf</file>
+      <x>353.8054124</x>
+      <y>306.8972247</y>
+      <xscale>0.1110116</xscale>
+      <yscale>0.1110116</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP27" index="20">
+      <file>sml.blue chair.swf</file>
+      <x>341.7964346</x>
+      <y>310.703551</y>
+      <xscale>0.1267899</xscale>
+      <yscale>0.1267899</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP28" index="21">
+      <file>sml.playroom table.swf</file>
+      <x>476.7554124</x>
+      <y>311.6972247</y>
+      <xscale>0.1110116</xscale>
+      <yscale>0.1110116</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP29" index="22">
+      <file>sml.blue chair.swf</file>
+      <x>464.7464346</x>
+      <y>315.503551</y>
+      <xscale>0.1267899</xscale>
+      <yscale>0.1267899</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP30" index="23">
+      <file>sml.playroom table.swf</file>
+      <x>98.2804124</x>
+      <y>364.3972247</y>
+      <xscale>0.1110116</xscale>
+      <yscale>0.1110116</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP31" index="24">
+      <file>sml.blue chair.swf</file>
+      <x>86.2714346</x>
+      <y>368.203551</y>
+      <xscale>0.1267899</xscale>
+      <yscale>0.1267899</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP32" index="25">
+      <file>sml.playroom table.swf</file>
+      <x>233.0054124</x>
+      <y>372.0722247</y>
+      <xscale>0.1110116</xscale>
+      <yscale>0.1110116</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP33" index="26">
+      <file>sml.blue chair.swf</file>
+      <x>220.9964346</x>
+      <y>375.878551</y>
+      <xscale>0.1267899</xscale>
+      <yscale>0.1267899</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP34" index="27">
+      <file>sml.playroom table.swf</file>
+      <x>354.8804124</x>
+      <y>370.1972247</y>
+      <xscale>0.1110116</xscale>
+      <yscale>0.1110116</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP35" index="28">
+      <file>sml.blue chair.swf</file>
+      <x>342.8714346</x>
+      <y>374.003551</y>
+      <xscale>0.1267899</xscale>
+      <yscale>0.1267899</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP36" index="29">
+      <file>sml.playroom table.swf</file>
+      <x>477.8054124</x>
+      <y>373.9722247</y>
+      <xscale>0.1110116</xscale>
+      <yscale>0.1110116</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP37" index="30">
+      <file>sml.blue chair.swf</file>
+      <x>465.7964346</x>
+      <y>377.778551</y>
+      <xscale>0.1267899</xscale>
+      <yscale>0.1267899</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP38" index="31">
+      <file>sml.playroom table.swf</file>
+      <x>561.6804124</x>
+      <y>241.6972247</y>
+      <xscale>0.1110116</xscale>
+      <yscale>0.1110116</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP39" index="32">
+      <file>sml.blue chair.swf</file>
+      <x>549.6714346</x>
+      <y>245.503551</y>
+      <xscale>0.1267899</xscale>
+      <yscale>0.1267899</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP40" index="33">
+      <file>sml.playroom table.swf</file>
+      <x>561.6804124</x>
+      <y>317.4722247</y>
+      <xscale>0.1110116</xscale>
+      <yscale>0.1110116</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP41" index="34">
+      <file>sml.blue chair.swf</file>
+      <x>549.6714346</x>
+      <y>321.278551</y>
+      <xscale>0.1267899</xscale>
+      <yscale>0.1267899</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP42" index="35">
+      <file>sml.playroom table.swf</file>
+      <x>562.7304124</x>
+      <y>377.9222247</y>
+      <xscale>0.1110116</xscale>
+      <yscale>0.1110116</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP43" index="36">
+      <file>sml.blue chair.swf</file>
+      <x>550.7214346</x>
+      <y>381.728551</y>
+      <xscale>0.1267899</xscale>
+      <yscale>0.1267899</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+<compositebg id="kickten table" name="Kickten Table" enable="Y" default="N" thumb="kickten table.png" display_order="6" is_premium="N" money="0" sharing="0" aid="4923">
+	<bg id="kickten table" index="0">
+		<file>sml.kicktentable.swf</file>
+	</bg>
+        <prop id="PROP3" index="1">
+      <file>sml.window daytime.swf</file>
+      <x>189.374464</x>
+      <y>153.6161307</y>
+      <xscale>0.3547714</xscale>
+      <yscale>0.3547714</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="2">
+      <file>sml.window daytime.swf</file>
+      <x>413.6577974</x>
+      <y>153.5911307</y>
+      <xscale>0.3547714</xscale>
+      <yscale>0.3547714</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP6" index="3">
+      <file>sml.door.swf</file>
+      <x>265.4701833</x>
+      <y>193.6201833</y>
+      <xscale>0.1926685</xscale>
+      <yscale>0.1926685</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="4">
+      <file>sml.door.swf</file>
+      <x>346.6201833</x>
+      <y>193.6451833</y>
+      <xscale>0.1926685</xscale>
+      <yscale>0.1926685</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="10">
+      <file>sml.bigtable.swf</file>
+      <x>330.1577743</x>
+      <y>317.3577743</y>
+      <xscale>0.6890287</xscale>
+      <yscale>0.6890287</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP10" index="5">
+      <file>sml.blue chair.swf</file>
+      <x>315.6321925</x>
+      <y>141.7178075</y>
+      <xscale>0.2876993</xscale>
+      <yscale>0.2876993</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP12" index="6">
+      <file>sml.red chair.swf</file>
+      <x>475.0428075</x>
+      <y>141.7253734</y>
+      <xscale>0.266725</xscale>
+      <yscale>0.266725</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP13" index="7">
+      <file>sml.green chair.swf</file>
+      <x>91.7928075</x>
+      <y>147.0678075</y>
+      <xscale>0.2876993</xscale>
+      <yscale>0.2876993</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP14" index="8">
+      <file>sml.red chair.swf</file>
+      <x>211.5428075</x>
+      <y>141.7178075</y>
+      <xscale>0.2876993</xscale>
+      <yscale>0.2876993</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP15" index="9">
+      <file>sml.blue chair.swf</file>
+      <x>572.4804124</x>
+      <y>132.2678075</y>
+      <xscale>0.2876993</xscale>
+      <yscale>0.2876993</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+<compositebg id="cooking kickten" name="Cooking Kickten" enable="Y" default="N" thumb="cooking kickten.png" display_order="7" is_premium="N" money="0" sharing="0" aid="4924">
+	<bg id="cooking kickten" index="0">
+		<file>sml.cooking.swf</file>
+	</bg>
+        <prop id="PROP3" index="1">
+      <file>sml.bigtable.swf</file>
+      <x>82.6304124</x>
+      <y>261.203551</y>
+      <xscale>0.318231</xscale>
+      <yscale>0.318231</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP7" index="2">
+      <file>sml.oven.swf</file>
+      <x>340.3305269</x>
+      <y>215.8149147</y>
+      <xscale>0.4034123</xscale>
+      <yscale>0.4034123</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP10" index="3">
+      <file>sml.bigtable.swf</file>
+      <x>590.9804124</x>
+      <y>261.2170442</y>
+      <xscale>0.318231</xscale>
+      <yscale>0.318231</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP11" index="4">
+      <file>sml.book.swf</file>
+      <x>108.7953085</x>
+      <y>183.7953085</y>
+      <xscale>0.2117011</xscale>
+      <yscale>0.2117011</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP12" index="5">
+      <file>sml.bigtable.swf</file>
+      <x>136.0304124</x>
+      <y>89.0440885</y>
+      <xscale>0.2364609</xscale>
+      <yscale>0.2364609</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP13" index="6">
+      <file>sml.micwave.swf</file>
+      <x>333.3305269</x>
+      <y>96.0684291</y>
+      <xscale>0.2628346</xscale>
+      <yscale>0.2628346</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP16" index="7">
+      <file>sml.bigtable.swf</file>
+      <x>532.8304124</x>
+      <y>91.3190885</y>
+      <xscale>0.2364609</xscale>
+      <yscale>0.2364609</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+<compositebg id="bowser junior bathroom" name="Bowser Jr Bathroom" enable="Y" default="N" thumb="bowser junior bathroom.png" display_order="8" is_premium="N" money="0" sharing="0" aid="4925">
+	<bg id="bowser junior bathroom" index="0">
+		<file>sml.jr bathroom.swf</file>
+	</bg>
+        <prop id="PROP4" index="3">
+      <file>sml.blue and green carpet.swf</file>
+      <x>314.1090383</x>
+      <y>358.353551</y>
+      <xscale>0.6384673</xscale>
+      <yscale>0.6384673</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP6" index="1">
+      <file>sml.bath2.swf</file>
+      <x>306.9804124</x>
+      <y>172.575</y>
+      <xscale>0.4305047</xscale>
+      <yscale>0.4305047</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP7" index="2">
+      <file>sml.bath1.swf</file>
+      <x>314.1177126</x>
+      <y>127.85</y>
+      <xscale>0.291496</xscale>
+      <yscale>0.291496</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="4">
+      <file>sml.toilet.swf</file>
+      <x>536.2</x>
+      <y>281.3353821</y>
+      <xscale>0.5551685</xscale>
+      <yscale>0.5551685</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+<compositebg id="two rooms" name="Two Rooms" enable="Y" default="N" thumb="two rooms.png" display_order="9" is_premium="N" money="0" sharing="0" aid="4926">
+	<bg id="two rooms" index="0">
+		<file>sml.newroom.swf</file>
+	</bg>
+        <prop id="PROP4" index="2">
+      <file>sml.chefpp bed.swf</file>
+      <x>317.6805269</x>
+      <y>231.003551</y>
+      <xscale>0.3425023</xscale>
+      <yscale>0.3425023</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="3">
+      <file>sml.jr bed.swf</file>
+      <x>360.8014562</x>
+      <y>66.5659402</y>
+      <xscale>0.3623909</xscale>
+      <yscale>0.3623909</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP6" index="1">
+      <file>sml.sml picture.swf</file>
+      <x>147.8623707</x>
+      <y>140.520704</y>
+      <xscale>0.2004217</xscale>
+      <yscale>0.2004217</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+        <prop id="sofa.swf" name="Sofa" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="2nd sofa.swf" name="2nd Sofa" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="red seat.swf" name="Red Seat" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="carpet.swf" name="Carpet" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="window daytime.swf" name="Window Daytime" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="window night.swf" name="Window Night" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="house.swf" name="House" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="grass.swf" name="Grass" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="playroom table.swf" name="Playroom Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="blue chair.swf" name="Blue Chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="red chair.swf" name="Red Chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="green chair.swf" name="Green Chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="tranpoline.swf" name="Tranpoline" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="sml picture.swf" name="SML Picture" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="door.swf" name="Door" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="thomas.swf" name="Big Thomas" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="blue and green carpet.swf" name="Blue And Green Carpet" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="jr bed.swf" name="Jr Bed" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="ken.swf" name="Ken" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="bowser bed.swf" name="Bowser Bed" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="school.swf" name="School" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="flag.swf" name="Flag" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="big tree.swf" name="Big Tree" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="road.swf" name="Road" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="school borad.swf" name="School Borad" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="shapes.swf" name="Shapes" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="trash.swf" name="Trash" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="clock.swf" name="Clock" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="bigtable.swf" name="BigTable" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="computer.swf" name="Computer" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="oven.swf" name="Oven" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="book.swf" name="Book" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="micwave.swf" name="Micwave" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="bath1.swf" name="Bath1" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="bath2.swf" name="Bath2" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="toilet.swf" name="Toilet" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="chefpp bed.swf" name="Chefpp Bed" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+</theme>

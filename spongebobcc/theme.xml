@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme id="spongebobcc" name="Spongebob Squarepants">
+	<char id="spongebob" name="Spongebob" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+		<action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+                <action id="kid.swf" name="Kid" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+                <action id="patrick star show outfit.swf" name="Patrick Star Show Outfit" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+	</char>
+        <char id="patrick" name="Patrick" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+		<action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+                <action id="kid.swf" name="Kid" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+                <action id="patrick star show outfit.swf" name="Patrick Star Show Outfit" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+	</char>
+        <char id="squidward" name="Squidward" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+		<action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+                <action id="kid.swf" name="Kid" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+                <action id="patrick star show outfit.swf" name="Patrick Star Show Outfit" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+	</char>
+        <char id="sandy" name="Sandy" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+		<action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+                <action id="kid.swf" name="Kid" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+                <action id="patrick star show outfit.swf" name="Patrick Star Show Outfit" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+	</char>
+        <char id="krabs" name="Krabs" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+		<action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+                <action id="kamp koral outfit.swf" name="Kamp Koral Outfit" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+	</char>
+        <char id="plankton" name="Plankton" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+		<action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+                <action id="kamp koral outfit.swf" name="Kamp Koral Outfit" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+	</char>
+        <char id="pearl" name="Pearl" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+		<action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+                <action id="baby.swf" name="Baby" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+                <action id="patrick star show outfit.swf" name="Patrick Star Show Outfit" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+	</char>
+        <char id="puff" name="Puff" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+		<action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+                <action id="kamp koral outfit.swf" name="Kamp Koral Outfit" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+	</char>
+        <char id="karen" name="Karen" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+		<action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+                <action id="kamp koral.swf" name="Kamp Koral Outfit" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+                <action id="wall.swf" name="Wall" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+	</char>
+        <char id="gary" name="Gary" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+		<action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+                <action id="kamp koral outfit.swf" name="Kamp Koral Outfit" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+	</char>
+        <char id="larry" name="Larry" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+		<action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+                <action id="kamp koral.swf" name="Kamp Koral Outfit" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+	</char>
+        <background id="houses.swf" name="Houses" enable="Y" default="Y" is_premium="N" aid="8305" money="0" sharing="0"/>
+        <background id="living room.swf" name="Living Room" enable="Y" default="Y" is_premium="N" aid="8305" money="0" sharing="0"/>
+        <background id="room.swf" name="Room" enable="Y" default="Y" is_premium="N" aid="8305" money="0" sharing="0"/>
+        <background id="bathroom.swf" name="Bathroom" enable="Y" default="Y" is_premium="N" aid="8305" money="0" sharing="0"/>
+        <background id="library.swf" name="Library" enable="Y" default="Y" is_premium="N" aid="8305" money="0" sharing="0"/>
+        <background id="krusty krab.swf" name="Krusty Krab" enable="Y" default="Y" is_premium="N" aid="8305" money="0" sharing="0"/>
+        <background id="inside.swf" name="Inside" enable="Y" default="Y" is_premium="N" aid="8305" money="0" sharing="0"/>
+        <prop id="hat.swf" name="Hat" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8240" money="0" sharing="0"/>
+        <prop id="fomula.swf" name="Fomula" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8240" money="0" sharing="0"/>
+        <prop id="tv.swf" name="TV" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8240" money="0" sharing="0"/>
+        <prop id="patrick star dancing.swf" name="Patrick Star Dancing" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8240" money="0" sharing="0"/>
+        <prop id="krabby patty.swf" name="Krabby Patty" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8240" money="0" sharing="0"/>
+        <prop id="chum.swf" name="Chum" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8240" money="0" sharing="0"/>
+        <prop id="bus.swf" name="Bus" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8240" money="0" sharing="0"/>
+        <prop id="bubbles.swf" name="Bubbles" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8240" money="0" sharing="0"/>
+</theme>

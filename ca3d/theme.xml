@@ -1,0 +1,2049 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme id="ca3d" name="Christian A 3D Universe!">
+	<char id="christian a" name="Christian A" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+                <tags>free,_cat:Main Characters</tags>
+                <category name="Actions">
+                <action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+                <action id="talk.swf" name="Talk" loop="Y" totalframe="50" enable="Y" aid="8264"/>
+                <action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8265"/>
+                <action id="sad.swf" name="Sad" loop="Y" totalframe="50" enable="Y" aid="8266"/>
+                <action id="angry.swf" name="Angry" loop="Y" totalframe="50" enable="Y" aid="8267"/>
+        </category>
+        </char>
+        <char id="christian a evilclone" name="Christian A Evilclone" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+                <tags>free,_cat:Main Characters</tags>
+                <category name="Actions">
+                <action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+                <action id="talk.swf" name="Talk" loop="Y" totalframe="50" enable="Y" aid="8264"/>
+                <action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8265"/>
+                <action id="laugh.swf" name="Laugh" loop="Y" totalframe="50" enable="Y" aid="8266"/>
+                <action id="angry.swf" name="Angry" loop="Y" totalframe="50" enable="Y" aid="8267"/>
+        </category>
+        </char>
+        <char id="dave" name="Dave" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+                <tags>free,_cat:Main Characters</tags>
+                <category name="Actions">
+                <action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+                <action id="talk.swf" name="Talk" loop="Y" totalframe="50" enable="Y" aid="8264"/>
+                <action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8265"/>
+                <action id="sad.swf" name="Sad" loop="Y" totalframe="50" enable="Y" aid="8266"/>
+                <action id="angry.swf" name="Angry" loop="Y" totalframe="50" enable="Y" aid="8267"/>
+                <action id="shocked.swf" name="Shocked" loop="Y" totalframe="50" enable="Y" aid="8268"/>
+        </category>
+        </char>
+        <char id="david" name="David (Christian A Brothers)" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+                <tags>free,_cat:Main Characters</tags>
+                <category name="Actions">
+                <action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+                <action id="talk.swf" name="Talk" loop="Y" totalframe="50" enable="Y" aid="8264"/>
+                <action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8265"/>
+                <action id="laugh.swf" name="Laugh" loop="Y" totalframe="50" enable="Y" aid="8266"/>
+                <action id="angry.swf" name="Angry" loop="Y" totalframe="50" enable="Y" aid="8267"/>
+        </category>
+        </char>
+        <char id="bob" name="Bob" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+                <tags>free,_cat:Others</tags>
+                <category name="Actions">
+                <action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+                <action id="talk.swf" name="Talk" loop="Y" totalframe="50" enable="Y" aid="8264"/>
+                <action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8265"/>
+                <action id="angry.swf" name="Angry" loop="Y" totalframe="50" enable="Y" aid="8266"/>
+        </category>
+        </char>
+        <char id="sarah" name="Sarah" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+                <tags>free,_cat:Others</tags>
+                <category name="Actions">
+                <action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+                <action id="talk.swf" name="Talk" loop="Y" totalframe="50" enable="Y" aid="8264"/>
+                <action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8265"/>
+                <action id="angry.swf" name="Angry" loop="Y" totalframe="50" enable="Y" aid="8266"/>
+                <action id="cry.swf" name="Crying" loop="Y" totalframe="50" enable="Y" aid="8267"/>
+        </category>
+        </char>
+        <char id="noob" name="Noob" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+                <tags>free,_cat:Others</tags>
+                <category name="Actions">
+                <action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+                <action id="talk.swf" name="Talk" loop="Y" totalframe="50" enable="Y" aid="8264"/>
+                <action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8265"/>
+                <action id="excited.swf" name="Excited" loop="Y" totalframe="50" enable="Y" aid="8266"/>
+                <action id="sad.swf" name="Sad" loop="Y" totalframe="50" enable="Y" aid="8267"/>
+        </category>
+        </char>
+        <char id="robloxmeiusern" name="Robloxmeiusern" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+                <tags>free,_cat:Others</tags>
+                <category name="Actions">
+                <action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+                <action id="talk.swf" name="Talk" loop="Y" totalframe="50" enable="Y" aid="8264"/>
+                <action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8265"/>
+                <action id="angry.swf" name="Angry" loop="Y" totalframe="50" enable="Y" aid="8266"/>
+                <action id="sad.swf" name="Sad" loop="Y" totalframe="50" enable="Y" aid="8267"/>
+        </category>
+        </char>
+        <char id="patrick" name="Patrick" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+                <tags>free,_cat:Others</tags>
+                <category name="Actions">
+                <action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+                <action id="talk.swf" name="Talk" loop="Y" totalframe="50" enable="Y" aid="8264"/>
+                <action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8265"/>
+                <action id="angry.swf" name="Angry" loop="Y" totalframe="50" enable="Y" aid="8266"/>
+                <action id="shocked.swf" name="Shocked" loop="Y" totalframe="50" enable="Y" aid="8267"/>
+        </category>
+        </char>
+        <char id="jeff" name="Jeff (Patrick 4 years old Brother)" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+                <tags>free,_cat:Others</tags>
+                <category name="Actions">
+                <action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+                <action id="talk.swf" name="Talk" loop="Y" totalframe="50" enable="Y" aid="8264"/>
+                <action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8265"/>
+                <action id="angry.swf" name="Angry" loop="Y" totalframe="50" enable="Y" aid="8266"/>
+                <action id="crying.swf" name="Crying" loop="Y" totalframe="50" enable="Y" aid="8267"/>
+        </category>
+        </char>
+        <char id="slender" name="Slender Man" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+                <tags>free,_cat:Others</tags>
+                <category name="Actions">
+                <action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+                <action id="dance.swf" name="Dance" loop="Y" totalframe="50" enable="Y" aid="8264"/>
+                <action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8265"/>
+                <action id="excited.swf" name="Excited" loop="Y" totalframe="50" enable="Y" aid="8266"/>
+        </category>
+        </char>
+        <char id="carl" name="Carl (Casher From McCAG)" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+                <tags>free,_cat:Job Worker</tags>
+                <category name="Actions">
+                <action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+                <action id="talk.swf" name="Talk" loop="Y" totalframe="50" enable="Y" aid="8264"/>
+                <action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8265"/>
+                <action id="angry.swf" name="Angry" loop="Y" totalframe="50" enable="Y" aid="8266"/>
+        </category>
+        </char>
+        <char id="james" name="James (Casher From ChrisAyaoGamer Shop!)" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+                <tags>free,_cat:Job Worker</tags>
+                <category name="Actions">
+                <action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+                <action id="talk.swf" name="Talk" loop="Y" totalframe="50" enable="Y" aid="8264"/>
+                <action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8265"/>
+                <action id="angry.swf" name="Angry" loop="Y" totalframe="50" enable="Y" aid="8266"/>
+                <action id="shocked.swf" name="Shocked" loop="Y" totalframe="50" enable="Y" aid="8267"/>
+        </category>
+        </char>
+        <char id="old man" name="Old Man" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+                <tags>free,_cat:Unknown Peoples</tags>
+                <category name="Actions">
+                <action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+                <action id="talk.swf" name="Talk" loop="Y" totalframe="50" enable="Y" aid="8264"/>
+                <action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8265"/>
+                <action id="angry.swf" name="Angry" loop="Y" totalframe="50" enable="Y" aid="8266"/>
+                <action id="sad.swf" name="Sad" loop="Y" totalframe="50" enable="Y" aid="8267"/>
+        </category>
+        </char>
+        <char id="old ladie" name="Old Ladie" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+                <tags>free,_cat:Unknown Peoples</tags>
+                <category name="Actions">
+                <action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+                <action id="talk.swf" name="Talk" loop="Y" totalframe="50" enable="Y" aid="8264"/>
+                <action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8265"/>
+                <action id="angry.swf" name="Angry" loop="Y" totalframe="50" enable="Y" aid="8266"/>
+                <action id="sad.swf" name="Sad" loop="Y" totalframe="50" enable="Y" aid="8267"/>
+        </category>
+        </char>
+        <char id="circle" name="Circle" thumb="a circle.swf" facing="left" default="a circle.swf" motion="a circle.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+                <tags>free,_cat:Characters/Shapes Item!</tags>
+                <category name="Actions">
+                <action id="a circle.swf" name="A Circle" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+        </category>
+        </char>
+        <char id="square" name="Square" thumb="a square.swf" facing="left" default="a square.swf" motion="a square.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+                <tags>free,_cat:Characters/Shapes Item!</tags>
+                <category name="Actions">
+                <action id="a square.swf" name="A Square" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+        </category>
+        </char>
+        <char id="traingle" name="Traingle" thumb="a traingle.swf" facing="left" default="a traingle.swf" motion="a traingle.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+                <tags>free,_cat:Characters/Shapes Item!</tags>
+                <category name="Actions">
+                <action id="a traingle.swf" name="A Traingle" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+        </category>
+        </char>
+        <char id="rectangle" name="Rectangle" thumb="a rectangle.swf" facing="left" default="a rectangle.swf" motion="a rectangle.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+                <tags>free,_cat:Characters/Shapes Item!</tags>
+                <category name="Actions">
+                <action id="a rectangle.swf" name="A Rectangle" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+        </category>
+        </char>
+        <char id="star" name="Star" thumb="a star.swf" facing="left" default="a star.swf" motion="a star.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+                <tags>free,_cat:Characters/Shapes Item!</tags>
+                <category name="Actions">
+                <action id="a star.swf" name="A Star" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+        </category>
+        </char>
+        <char id="pentagon" name="Pentagon" thumb="a pentagon.swf" facing="left" default="a pentagon.swf" motion="a pentagon.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+                <tags>free,_cat:Characters/Shapes Item!</tags>
+                <category name="Actions">
+                <action id="a pentagon.swf" name="Pentagon" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+        </category>
+        </char>
+        <char id="hexagon" name="Hexagon" thumb="a hexagon.swf" facing="left" default="a hexagon.swf" motion="a hexagon.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+                <tags>free,_cat:Characters/Shapes Item!</tags>
+                <category name="Actions">
+                <action id="a hexagon.swf" name="Hexagon" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+        </category>
+        </char>
+        <char id="diamond" name="Diamond" thumb="a diamond.swf" facing="left" default="a diamond.swf" motion="a diamond.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+                <tags>free,_cat:Characters/Shapes Item!</tags>
+                <category name="Actions">
+                <action id="a diamond.swf" name="Diamond" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+        </category>
+        </char>
+        <background id="sky grass.swf" name="Sky Grass" enable="Y" default="Y" is_premium="N" aid="8305" money="0" sharing="0"/>
+        <background id="red blue living room.swf" name="Red And Blue Living Room" enable="Y" default="Y" is_premium="N" aid="8305" money="0" sharing="0"/>
+        <background id="yellow red room.swf" name="Yellow And Red Room" enable="Y" default="Y" is_premium="N" aid="8305" money="0" sharing="0"/>
+        <background id="kickten.swf" name="Kickten" enable="Y" default="Y" is_premium="N" aid="8305" money="0" sharing="0"/>
+        <background id="outside2.swf" name="Outside2" enable="Y" default="Y" is_premium="N" aid="8305" money="0" sharing="0"/>
+        <background id="roomtemplates.swf" name="RoomTemplates" enable="Y" default="Y" is_premium="N" aid="8305" money="0" sharing="0"/>
+        <background id="mccag bg.swf" name="McCag BG!" enable="Y" default="Y" is_premium="N" aid="8305" money="0" sharing="0"/>
+        <background id="mccag kitcken.swf" name="McCag Kitcken Templates!" enable="Y" default="Y" is_premium="N" aid="8306" money="0" sharing="0"/>
+        <background id="outside3.swf" name="Outside3" enable="Y" default="Y" is_premium="N" aid="8306" money="0" sharing="0"/>
+        <background id="shop bg.swf" name="Shop BG!" enable="Y" default="Y" is_premium="N" aid="8306" money="0" sharing="0"/>
+        <background id="outside4.swf" name="Outside4" enable="Y" default="Y" is_premium="N" aid="8306" money="0" sharing="0"/>
+        <background id="school inside.swf" name="School Inside" enable="Y" default="Y" is_premium="N" aid="8306" money="0" sharing="0"/>
+        <background id="classrooms.swf" name="Classrooms BG!" enable="Y" default="Y" is_premium="N" aid="8306" money="0" sharing="0"/>
+        <background id="mc class.swf" name="Mc Class!" enable="Y" default="Y" is_premium="N" aid="8306" money="0" sharing="0"/>
+        <background id="recess.swf" name="Recess" enable="Y" default="Y" is_premium="N" aid="8306" money="0" sharing="0"/>
+        <background id="forest bg.swf" name="Forest BG!" enable="Y" default="Y" is_premium="N" aid="8306" money="0" sharing="0"/>
+        <background id="hallways2.swf" name="Hallways2" enable="Y" default="Y" is_premium="N" aid="8306" money="0" sharing="0"/>
+        <background id="boy.swf" name="Boy" enable="Y" default="Y" is_premium="N" aid="8306" money="0" sharing="0"/>
+        <background id="girl.swf" name="Girl" enable="Y" default="Y" is_premium="N" aid="8306" money="0" sharing="0"/>
+        <compositebg id="christiana house" name="Christian A House" thumb="christiana house.png" enable="Y" default="Y" is_premium="N" aid="3917" money="0" sharing="0">
+	<bg id="christiana house" index="0">
+		<file>ca3d.sky grass.swf</file>
+	</bg>
+        <prop id="PROP10" index="1">
+      <file>ca3d.cloud.swf</file>
+      <x>497.5314947</x>
+      <y>87.8741004</y>
+      <xscale>0.2328102</xscale>
+      <yscale>0.2328102</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP12" index="2">
+      <file>ca3d.cloud.swf</file>
+      <x>370.2314947</x>
+      <y>91.7241004</y>
+      <xscale>0.2328102</xscale>
+      <yscale>0.2328102</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP13" index="3">
+      <file>ca3d.cloud.swf</file>
+      <x>105.6814947</x>
+      <y>80.1241004</y>
+      <xscale>0.2328102</xscale>
+      <yscale>0.2328102</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP14" index="4">
+      <file>ca3d.cloud.swf</file>
+      <x>258.2314947</x>
+      <y>76.1741004</y>
+      <xscale>0.2328102</xscale>
+      <yscale>0.2328102</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP15" index="5">
+      <file>ca3d.cloud.swf</file>
+      <x>182.8814947</x>
+      <y>117.6741004</y>
+      <xscale>0.2328102</xscale>
+      <yscale>0.2328102</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP16" index="6">
+      <file>ca3d.road.swf</file>
+      <x>156.7736853</x>
+      <y>306.5241004</y>
+      <xscale>0.2876624</xscale>
+      <yscale>0.2876624</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP18" index="7">
+      <file>ca3d.road.swf</file>
+      <x>370.2</x>
+      <y>306.5</y>
+      <xscale>0.2876624</xscale>
+      <yscale>0.2876624</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP19" index="8">
+      <file>ca3d.road.swf</file>
+      <x>598.4736853</x>
+      <y>306.5</y>
+      <xscale>0.2876624</xscale>
+      <yscale>0.2876624</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP20" index="10">
+      <file>ca3d.redbluehouse1.swf</file>
+      <x>284.65259</x>
+      <y>166.8</y>
+      <xscale>0.4971918</xscale>
+      <yscale>0.4971918</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP21" index="9">
+      <file>ca3d.redbluehouse2.swf</file>
+      <x>512.375</x>
+      <y>183.7</y>
+      <xscale>0.4040979</xscale>
+      <yscale>0.4040979</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP22" index="11">
+      <file>ca3d.windowday.swf</file>
+      <x>222.05</x>
+      <y>171.375</y>
+      <xscale>0.1845339</xscale>
+      <yscale>0.1845339</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP24" index="12">
+      <file>ca3d.windowday.swf</file>
+      <x>359.65</x>
+      <y>171.375</y>
+      <xscale>0.1845339</xscale>
+      <yscale>0.1845339</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP25" index="13">
+      <file>ca3d.door.swf</file>
+      <x>290.75259</x>
+      <y>204.7741004</y>
+      <xscale>0.2322018</xscale>
+      <yscale>0.2226006</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP26" index="14">
+      <file>ca3d.windowday.swf</file>
+      <x>467.6</x>
+      <y>191.375</y>
+      <xscale>0.1845339</xscale>
+      <yscale>0.1845339</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP28" index="15">
+      <file>ca3d.windowday.swf</file>
+      <x>574.45</x>
+      <y>191.375</y>
+      <xscale>0.1845339</xscale>
+      <yscale>0.1845339</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+<compositebg id="christiana kitchen" name="Christian A Kitchen" thumb="christiana kitchen.png" enable="Y" default="Y" is_premium="N" aid="3917" money="0" sharing="0">
+	<bg id="christiana kitchen" index="0">
+		<file>ca3d.kickten.swf</file>
+	</bg>
+        <prop id="PROP4" index="4">
+      <file>ca3d.refrigerator.swf</file>
+      <x>479.5</x>
+      <y>135.8170319</y>
+      <xscale>0.2754054</xscale>
+      <yscale>0.2754054</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="5">
+      <file>ca3d.oven.swf</file>
+      <x>352.4736853</x>
+      <y>156.2432849</y>
+      <xscale>0.2686044</xscale>
+      <yscale>0.2686044</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP6" index="2">
+      <file>ca3d.windowday.swf</file>
+      <x>135.475</x>
+      <y>114.15</y>
+      <xscale>0.2489289</xscale>
+      <yscale>0.2489289</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="1">
+      <file>ca3d.windowday.swf</file>
+      <x>221.475</x>
+      <y>114.15</y>
+      <xscale>0.2489289</xscale>
+      <yscale>0.2489289</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="3">
+      <file>ca3d.carpet.swf</file>
+      <x>329.375</x>
+      <y>264.8</y>
+      <xscale>0.4696299</xscale>
+      <yscale>0.2598672</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP10" index="9">
+      <file>ca3d.table.swf</file>
+      <x>322</x>
+      <y>201</y>
+      <xscale>0.4276979</xscale>
+      <yscale>0.4276979</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP11" index="6">
+      <file>ca3d.chair.swf</file>
+      <x>465.25259</x>
+      <y>206.575</y>
+      <xscale>0.4053261</xscale>
+      <yscale>0.4053261</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP13" index="8">
+      <file>ca3d.chair.swf</file>
+      <x>208.8</x>
+      <y>209.175</y>
+      <xscale>0.4053261</xscale>
+      <yscale>0.4053261</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP14" index="7">
+      <file>ca3d.chair.swf</file>
+      <x>221.475</x>
+      <y>141.925</y>
+      <xscale>0.4053261</xscale>
+      <yscale>0.4053261</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+<compositebg id="christiana living room" name="Christian A Living Room" thumb="christiana living room.png" enable="Y" default="Y" is_premium="N" aid="3917" money="0" sharing="0">
+	<bg id="christiana living room" index="0">
+		<file>ca3d.red blue living room.swf</file>
+	</bg>
+        <prop id="PROP29" index="1">
+      <file>ca3d.windowday.swf</file>
+      <x>250.325</x>
+      <y>87.425</y>
+      <xscale>0.2301557</xscale>
+      <yscale>0.2301557</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP31" index="3" attached="Y">
+      <file>ca3d.windowday.swf</file>
+      <x>340.025</x>
+      <y>87.375</y>
+      <xscale>0.2301557</xscale>
+      <yscale>0.2301557</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP32" index="4" attached="Y">
+      <file>ca3d.windowday.swf</file>
+      <x>433.325</x>
+      <y>87.325</y>
+      <xscale>0.2301557</xscale>
+      <yscale>0.2301557</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP33" index="5" attached="Y">
+      <file>ca3d.windowday.swf</file>
+      <x>521.775</x>
+      <y>87.275</y>
+      <xscale>0.2301557</xscale>
+      <yscale>0.2301557</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP34" index="7">
+      <file>ca3d.sofa left.swf</file>
+      <x>160.8314947</x>
+      <y>282.025</y>
+      <xscale>0.2745364</xscale>
+      <yscale>0.2745364</yscale>
+      <face>1</face>
+      <rotation>-2.2085571</rotation>
+    </prop>
+    <prop id="PROP36" index="8">
+      <file>ca3d.sofa left.swf</file>
+      <x>466.1814947</x>
+      <y>293.625</y>
+      <xscale>0.2745364</xscale>
+      <yscale>0.2745364</yscale>
+      <face>-1</face>
+      <rotation>3.3201104</rotation>
+    </prop>
+    <prop id="PROP37" index="6">
+      <file>ca3d.carpet.swf</file>
+      <x>315.6736853</x>
+      <y>317.1241004</y>
+      <xscale>0.4170694</xscale>
+      <yscale>0.1110484</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP38" index="2">
+      <file>ca3d.tv.swf</file>
+      <x>309.20259</x>
+      <y>227.3166667</y>
+      <xscale>0.4486282</xscale>
+      <yscale>0.4486282</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+<compositebg id="hallways" name="Hallways" thumb="hallways.png" enable="Y" default="Y" is_premium="N" aid="3918" money="0" sharing="0">
+	<bg id="hallways" index="0">
+		<file>ca3d.yellow red room.swf</file>
+	</bg>
+        <prop id="PROP4" index="1">
+      <file>ca3d.door.swf</file>
+      <x>164.0648339</x>
+      <y>240.2741004</y>
+      <xscale>0.4066434</xscale>
+      <yscale>0.4030745</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP6" index="2">
+      <file>ca3d.door.swf</file>
+      <x>335.0648339</x>
+      <y>240.2399231</y>
+      <xscale>0.4066434</xscale>
+      <yscale>0.4030745</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP7" index="3">
+      <file>ca3d.sign.swf</file>
+      <x>152.6736853</x>
+      <y>116.1241004</y>
+      <xscale>0.3384637</xscale>
+      <yscale>0.3384637</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+<compositebg id="christiana room" name="Christian A Room" thumb="christiana room.png" enable="Y" default="Y" is_premium="N" aid="3919" money="0" sharing="0">
+	<bg id="christiana room" index="0">
+		<file>ca3d.roomtemplates.swf</file>
+	</bg>
+        <prop id="PROP3" index="1">
+      <file>ca3d.windowday.swf</file>
+      <x>222.475</x>
+      <y>118.5241004</y>
+      <xscale>0.301643</xscale>
+      <yscale>0.301643</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="2">
+      <file>ca3d.windowday.swf</file>
+      <x>347.725</x>
+      <y>118.525</y>
+      <xscale>0.301643</xscale>
+      <yscale>0.301643</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="3">
+      <file>ca3d.tv.swf</file>
+      <x>482.325</x>
+      <y>220.65</y>
+      <xscale>0.5249757</xscale>
+      <yscale>0.5249757</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="4">
+      <file>ca3d.bed.swf</file>
+      <x>266.6814947</x>
+      <y>277.5241004</y>
+      <xscale>0.2876112</xscale>
+      <yscale>0.2876112</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP11" index="5">
+      <file>ca3d.blanket.swf</file>
+      <x>283.6438579</x>
+      <y>263.6728281</y>
+      <xscale>0.2456821</xscale>
+      <yscale>0.0868771</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP12" index="6">
+      <file>ca3d.laptop.swf</file>
+      <x>333.6814947</x>
+      <y>252.6666667</y>
+      <xscale>0.1760255</xscale>
+      <yscale>0.1760255</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+<compositebg id="mccag" name="McCAG" thumb="mccag.png" enable="Y" default="Y" is_premium="N" aid="3920" money="0" sharing="0">
+	<bg id="mccag" index="0">
+		<file>ca3d.outside2.swf</file>
+	</bg>
+        <prop id="PROP4" index="1">
+      <file>ca3d.cloud.swf</file>
+      <x>457.8814947</x>
+      <y>83.0241004</y>
+      <xscale>0.1721053</xscale>
+      <yscale>0.1721053</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP6" index="2">
+      <file>ca3d.cloud.swf</file>
+      <x>297.0814947</x>
+      <y>79.5741004</y>
+      <xscale>0.1721053</xscale>
+      <yscale>0.1721053</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP7" index="3">
+      <file>ca3d.cloud.swf</file>
+      <x>139.5814947</x>
+      <y>83</y>
+      <xscale>0.1721053</xscale>
+      <yscale>0.1721053</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="4">
+      <file>ca3d.cloud.swf</file>
+      <x>357.5314947</x>
+      <y>113.8241004</y>
+      <xscale>0.1721053</xscale>
+      <yscale>0.1721053</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="5">
+      <file>ca3d.cloud.swf</file>
+      <x>554.2814947</x>
+      <y>109.9741004</y>
+      <xscale>0.1721053</xscale>
+      <yscale>0.1721053</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP10" index="6">
+      <file>ca3d.cloud.swf</file>
+      <x>211.6314947</x>
+      <y>113.8</y>
+      <xscale>0.1721053</xscale>
+      <yscale>0.1721053</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP11" index="7">
+      <file>ca3d.rainbowbuild.swf</file>
+      <x>316.8914518</x>
+      <y>181.4664518</y>
+      <xscale>0.3713238</xscale>
+      <yscale>0.3419292</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP13" index="9">
+      <file>ca3d.windowday.swf</file>
+      <x>243.3314947</x>
+      <y>172.4741004</y>
+      <xscale>0.1873397</xscale>
+      <yscale>0.1873397</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP15" index="10">
+      <file>ca3d.windowday.swf</file>
+      <x>391.8814947</x>
+      <y>172.475</y>
+      <xscale>0.1873397</xscale>
+      <yscale>0.1873397</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP16" index="11">
+      <file>ca3d.door.swf</file>
+      <x>316.8690588</x>
+      <y>194.9741004</y>
+      <xscale>0.2376478</xscale>
+      <yscale>0.2376478</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP17" index="8">
+      <file>ca3d.mccag text signs.swf</file>
+      <x>313.8</x>
+      <y>135.2741004</y>
+      <xscale>0.2175044</xscale>
+      <yscale>0.2021017</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP18" index="12">
+      <file>ca3d.mccag signs.swf</file>
+      <x>115.5418429</x>
+      <y>155.675</y>
+      <xscale>0.3262841</xscale>
+      <yscale>0.346584</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+<compositebg id="main mccag" name="Main McCAG!" thumb="main mccag.png" enable="Y" default="Y" is_premium="N" aid="3921" money="0" sharing="0">
+	<bg id="main mccag" index="0">
+		<file>ca3d.mccag bg.swf</file>
+	</bg>
+        <prop id="PROP3" index="1">
+      <file>ca3d.door.swf</file>
+      <x>400.25259</x>
+      <y>158.1741004</y>
+      <xscale>0.1887368</xscale>
+      <yscale>0.1887368</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP4" index="2">
+      <file>ca3d.windowday.swf</file>
+      <x>252.075</x>
+      <y>87.1666667</y>
+      <xscale>0.1824665</xscale>
+      <yscale>0.1824665</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP6" index="3">
+      <file>ca3d.windowday.swf</file>
+      <x>333.975</x>
+      <y>87.15</y>
+      <xscale>0.1824665</xscale>
+      <yscale>0.1824665</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP7" index="4">
+      <file>ca3d.lunch table.swf</file>
+      <x>499.5236853</x>
+      <y>208.419003</y>
+      <xscale>0.2398799</xscale>
+      <yscale>0.2398799</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="5">
+      <file>ca3d.lunch table.swf</file>
+      <x>318.1773363</x>
+      <y>208.419003</y>
+      <xscale>0.2398799</xscale>
+      <yscale>0.2398799</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP10" index="7">
+      <file>ca3d.lunch table.swf</file>
+      <x>510.5236853</x>
+      <y>281.119003</y>
+      <xscale>0.2398799</xscale>
+      <yscale>0.2398799</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP12" index="8">
+      <file>ca3d.customer boy.swf</file>
+      <x>348.2205976</x>
+      <y>206.5205976</y>
+      <xscale>0.176096</xscale>
+      <yscale>0.176096</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP14" index="9">
+      <file>ca3d.customer girl.swf</file>
+      <x>289.5705976</x>
+      <y>206.5205976</y>
+      <xscale>0.176096</xscale>
+      <yscale>0.176096</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP15" index="6">
+      <file>ca3d.customer boy.swf</file>
+      <x>532.5708698</x>
+      <y>203.6958698</y>
+      <xscale>0.1652092</xscale>
+      <yscale>0.1652092</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP16" index="10">
+      <file>ca3d.blue boat.swf</file>
+      <x>216</x>
+      <y>268.1</y>
+      <xscale>0.2965832</xscale>
+      <yscale>0.2965832</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+<compositebg id="mccag kitcken" name="McCAG Kitcken!" thumb="mccag kitcken.png" enable="Y" default="Y" is_premium="N" aid="3922" money="0" sharing="0">
+	<bg id="mccag kitcken" index="0">
+		<file>ca3d.mccag kitcken.swf</file>
+	</bg>
+        <prop id="PROP3" index="1">
+      <file>ca3d.door.swf</file>
+      <x>427.1684193</x>
+      <y>139.3434193</y>
+      <xscale>0.2632282</xscale>
+      <yscale>0.267939</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="2">
+      <file>ca3d.door.swf</file>
+      <x>483.7684193</x>
+      <y>139.2933015</y>
+      <xscale>0.2632282</xscale>
+      <yscale>0.267939</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP6" index="3">
+      <file>ca3d.oven.swf</file>
+      <x>220.1314947</x>
+      <y>156.9741004</y>
+      <xscale>0.2437465</xscale>
+      <yscale>0.2437465</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP7" index="4">
+      <file>ca3d.kitcken table.swf</file>
+      <x>207.8736853</x>
+      <y>257.4741004</y>
+      <xscale>0.465648</xscale>
+      <yscale>0.4762299</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="5">
+      <file>ca3d.burger.swf</file>
+      <x>97.55259</x>
+      <y>191.6741004</y>
+      <xscale>0.26499</xscale>
+      <yscale>0.26499</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="6">
+      <file>ca3d.msp_mccag_fries.msp_mccag_fries_full.swf</file>
+      <x>172.7314947</x>
+      <y>191.6</y>
+      <xscale>0.2406728</xscale>
+      <yscale>0.2406728</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP10" index="7">
+      <file>ca3d.mccag milkshake.swf</file>
+      <x>241.25</x>
+      <y>201</y>
+      <xscale>0.1078244</xscale>
+      <yscale>0.1078244</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP11" index="8">
+      <file>ca3d.mccag toy.swf</file>
+      <x>295.7446073</x>
+      <y>191.65</y>
+      <xscale>0.2157061</xscale>
+      <yscale>0.2157061</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP12" index="9">
+      <file>ca3d.msp_mccag_chicken nuggets.msp_mccag_chicken nuggets_open.swf</file>
+      <x>330.6710665</x>
+      <y>209.75</y>
+      <xscale>0.1573386</xscale>
+      <yscale>0.1573386</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+<compositebg id="cag shop" name="ChrisAyaoGamer Shop!" thumb="cag shop.png" enable="Y" default="Y" is_premium="N" aid="3923" money="0" sharing="0">
+	<bg id="cag shop" index="0">
+		<file>ca3d.outside3.swf</file>
+	</bg>
+        <prop id="PROP3" index="1">
+      <file>ca3d.red building.swf</file>
+      <x>409.65259</x>
+      <y>105.1833333</y>
+      <xscale>0.1789543</xscale>
+      <yscale>0.1789543</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="2">
+      <file>ca3d.yellow building.swf</file>
+      <x>449.85259</x>
+      <y>110.825</y>
+      <xscale>0.1789543</xscale>
+      <yscale>0.1789543</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="3">
+      <file>ca3d.red building.swf</file>
+      <x>489.95259</x>
+      <y>105.1833333</y>
+      <xscale>0.1789543</xscale>
+      <yscale>0.1789543</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="4">
+      <file>ca3d.yellow building.swf</file>
+      <x>530.15259</x>
+      <y>110.825</y>
+      <xscale>0.1789543</xscale>
+      <yscale>0.1789543</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP10" index="5">
+      <file>ca3d.red building.swf</file>
+      <x>570.25259</x>
+      <y>108.0083333</y>
+      <xscale>0.1789543</xscale>
+      <yscale>0.1789543</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP11" index="6">
+      <file>ca3d.yellow building.swf</file>
+      <x>610.45259</x>
+      <y>113.65</y>
+      <xscale>0.1789543</xscale>
+      <yscale>0.1789543</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP12" index="7">
+      <file>ca3d.red building.swf</file>
+      <x>329.35259</x>
+      <y>105.1833333</y>
+      <xscale>0.1789543</xscale>
+      <yscale>0.1789543</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP13" index="8">
+      <file>ca3d.yellow building.swf</file>
+      <x>369.55259</x>
+      <y>110.825</y>
+      <xscale>0.1789543</xscale>
+      <yscale>0.1789543</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP14" index="9">
+      <file>ca3d.red building.swf</file>
+      <x>249.05259</x>
+      <y>105.2083333</y>
+      <xscale>0.1789543</xscale>
+      <yscale>0.1789543</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP15" index="10">
+      <file>ca3d.yellow building.swf</file>
+      <x>289.25259</x>
+      <y>110.85</y>
+      <xscale>0.1789543</xscale>
+      <yscale>0.1789543</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP16" index="11">
+      <file>ca3d.red building.swf</file>
+      <x>174.05259</x>
+      <y>105.2333333</y>
+      <xscale>0.1789543</xscale>
+      <yscale>0.1789543</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP17" index="12">
+      <file>ca3d.yellow building.swf</file>
+      <x>214.25259</x>
+      <y>110.875</y>
+      <xscale>0.1789543</xscale>
+      <yscale>0.1789543</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP18" index="13">
+      <file>ca3d.red building.swf</file>
+      <x>95.80259</x>
+      <y>102.3583333</y>
+      <xscale>0.1789543</xscale>
+      <yscale>0.1789543</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP19" index="14">
+      <file>ca3d.yellow building.swf</file>
+      <x>136.00259</x>
+      <y>108</y>
+      <xscale>0.1789543</xscale>
+      <yscale>0.1789543</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP20" index="15">
+      <file>ca3d.red building.swf</file>
+      <x>17.55259</x>
+      <y>102.4083333</y>
+      <xscale>0.1789543</xscale>
+      <yscale>0.1789543</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP21" index="16">
+      <file>ca3d.yellow building.swf</file>
+      <x>57.75259</x>
+      <y>108.05</y>
+      <xscale>0.1789543</xscale>
+      <yscale>0.1789543</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP22" index="17">
+      <file>ca3d.road.swf</file>
+      <x>150.025</x>
+      <y>316.7</y>
+      <xscale>0.3466514</xscale>
+      <yscale>0.3466514</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP24" index="18">
+      <file>ca3d.road.swf</file>
+      <x>418.275</x>
+      <y>316.7</y>
+      <xscale>0.3466514</xscale>
+      <yscale>0.3466514</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP25" index="19">
+      <file>ca3d.road.swf</file>
+      <x>670.125</x>
+      <y>316.7</y>
+      <xscale>0.3466514</xscale>
+      <yscale>0.3466514</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP26" index="20">
+      <file>ca3d.shop.swf</file>
+      <x>319.975</x>
+      <y>201</y>
+      <xscale>0.4231633</xscale>
+      <yscale>0.4231633</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP28" index="21">
+      <file>ca3d.door.swf</file>
+      <x>240.4706373</x>
+      <y>224.3206373</y>
+      <xscale>0.1745098</xscale>
+      <yscale>0.1745098</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP30" index="22">
+      <file>ca3d.door.swf</file>
+      <x>276.7706373</x>
+      <y>224.2206373</y>
+      <xscale>0.1745098</xscale>
+      <yscale>0.1745098</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP31" index="23">
+      <file>ca3d.windowday.swf</file>
+      <x>337.7736853</x>
+      <y>196.6241004</y>
+      <xscale>0.2123577</xscale>
+      <yscale>0.2123577</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP33" index="24">
+      <file>ca3d.windowday.swf</file>
+      <x>182.325</x>
+      <y>196.575</y>
+      <xscale>0.2123577</xscale>
+      <yscale>0.2123577</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP34" index="25">
+      <file>ca3d.cag shop signs.swf</file>
+      <x>253.7914458</x>
+      <y>142.6741004</y>
+      <xscale>0.2860292</xscale>
+      <yscale>0.1430203</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+<compositebg id="cag shop inside" name="ChrisAyaoGamer Shop Inside!" thumb="cag shop inside.png" enable="Y" default="Y" is_premium="N" aid="3924" money="0" sharing="0">
+	<bg id="cag shop inside" index="0">
+		<file>ca3d.shop bg.swf</file>
+	</bg>
+        <prop id="PROP5" index="1">
+      <file>ca3d.door.swf</file>
+      <x>354.8814947</x>
+      <y>174.1241004</y>
+      <xscale>0.1597617</xscale>
+      <yscale>0.1597617</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP7" index="2">
+      <file>ca3d.door.swf</file>
+      <x>390.178994</x>
+      <y>174.121006</y>
+      <xscale>0.1597617</xscale>
+      <yscale>0.1597617</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="3">
+      <file>ca3d.windowday.swf</file>
+      <x>275.6736853</x>
+      <y>170.3</y>
+      <xscale>0.1745504</xscale>
+      <yscale>0.1745504</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP10" index="4">
+      <file>ca3d.windowday.swf</file>
+      <x>454.8</x>
+      <y>170.3</y>
+      <xscale>0.1745504</xscale>
+      <yscale>0.1745504</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP11" index="5">
+      <file>ca3d.msp_clothes.msp_clothes.swf</file>
+      <x>245.85</x>
+      <y>96.8741004</y>
+      <xscale>0.166929</xscale>
+      <yscale>0.166929</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP13" index="6">
+      <file>ca3d.msp_clothes.msp_clothes.swf</file>
+      <x>413.6666667</x>
+      <y>75.4241004</y>
+      <xscale>0.166929</xscale>
+      <yscale>0.166929</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP14" index="7">
+      <file>ca3d.msp_clothes.msp_clothes.swf</file>
+      <x>512.55</x>
+      <y>116.85</y>
+      <xscale>0.166929</xscale>
+      <yscale>0.166929</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP16" index="8">
+      <file>ca3d.clothes2.swf</file>
+      <x>528.9736853</x>
+      <y>187.5741004</y>
+      <xscale>0.2653513</xscale>
+      <yscale>0.2653513</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP18" index="10">
+      <file>ca3d.clothes2.swf</file>
+      <x>469.5236853</x>
+      <y>252.6666667</y>
+      <xscale>0.2653513</xscale>
+      <yscale>0.2653513</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP19" index="9">
+      <file>ca3d.clothes2.swf</file>
+      <x>314.85</x>
+      <y>187.55</y>
+      <xscale>0.2323032</xscale>
+      <yscale>0.2323032</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP20" index="11">
+      <file>ca3d.kitcken table.swf</file>
+      <x>220.075</x>
+      <y>248.425</y>
+      <xscale>0.3100943</xscale>
+      <yscale>0.3348241</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+<compositebg id="really cool school" name="Really Cool School" thumb="really cool school.png" enable="Y" default="Y" is_premium="N" aid="3925" money="0" sharing="0">
+	<bg id="really cool school" index="0">
+		<file>ca3d.outside4.swf</file>
+	</bg>
+        <prop id="PROP3" index="1">
+      <file>ca3d.sun.swf</file>
+      <x>448.10259</x>
+      <y>78.1241004</y>
+      <xscale>0.1678949</xscale>
+      <yscale>0.1678949</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP4" index="2">
+      <file>ca3d.cloud.swf</file>
+      <x>201.675</x>
+      <y>73.2</y>
+      <xscale>0.1626775</xscale>
+      <yscale>0.1626775</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP6" index="3">
+      <file>ca3d.cloud.swf</file>
+      <x>346.925</x>
+      <y>78.1</y>
+      <xscale>0.1626775</xscale>
+      <yscale>0.1626775</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP7" index="4">
+      <file>ca3d.cloud.swf</file>
+      <x>543.625</x>
+      <y>68.575</y>
+      <xscale>0.1626775</xscale>
+      <yscale>0.1626775</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="5">
+      <file>ca3d.road.swf</file>
+      <x>119.5736853</x>
+      <y>331.0241004</y>
+      <xscale>0.2057622</xscale>
+      <yscale>0.2057622</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP10" index="6">
+      <file>ca3d.road.swf</file>
+      <x>278.3236853</x>
+      <y>331.025</y>
+      <xscale>0.2057622</xscale>
+      <yscale>0.2057622</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP11" index="7">
+      <file>ca3d.road.swf</file>
+      <x>442.3236853</x>
+      <y>331.025</y>
+      <xscale>0.2057622</xscale>
+      <yscale>0.2057622</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP12" index="8">
+      <file>ca3d.road.swf</file>
+      <x>604.825</x>
+      <y>331.025</y>
+      <xscale>0.2057622</xscale>
+      <yscale>0.2057622</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP13" index="9">
+      <file>ca3d.school.swf</file>
+      <x>323.375</x>
+      <y>131.6241004</y>
+      <xscale>0.3331885</xscale>
+      <yscale>0.3240677</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP14" index="10">
+      <file>ca3d.windowday.swf</file>
+      <x>283.0314947</x>
+      <y>137.3241004</y>
+      <xscale>0.0954485</xscale>
+      <yscale>0.0954485</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP16" index="11">
+      <file>ca3d.windowday.swf</file>
+      <x>322</x>
+      <y>137.325</y>
+      <xscale>0.0954485</xscale>
+      <yscale>0.0954485</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP17" index="12">
+      <file>ca3d.windowday.swf</file>
+      <x>363.1314947</x>
+      <y>137.325</y>
+      <xscale>0.0954485</xscale>
+      <yscale>0.0954485</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP18" index="13">
+      <file>ca3d.windowday.swf</file>
+      <x>283</x>
+      <y>174.6741004</y>
+      <xscale>0.0954485</xscale>
+      <yscale>0.0954485</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP19" index="14">
+      <file>ca3d.door.swf</file>
+      <x>324.0470041</x>
+      <y>180.8220041</y>
+      <xscale>0.1198369</xscale>
+      <yscale>0.1198369</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP21" index="15">
+      <file>ca3d.door.swf</file>
+      <x>350.1220041</x>
+      <y>180.7720041</y>
+      <xscale>0.1198369</xscale>
+      <yscale>0.1198369</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+<compositebg id="really cool school inside" name="Really Cool School Inside" thumb="really cool school inside.png" enable="Y" default="Y" is_premium="N" aid="3926" money="0" sharing="0">
+	<bg id="really cool school inside" index="0">
+		<file>ca3d.school inside.swf</file>
+	</bg>
+        <prop id="PROP3" index="2">
+      <file>ca3d.wall.swf</file>
+      <x>572.70259</x>
+      <y>184.7741004</y>
+      <xscale>0.5977308</xscale>
+      <yscale>0.7374219</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP4" index="3">
+      <file>ca3d.door.swf</file>
+      <x>256.8451748</x>
+      <y>227.9935483</y>
+      <xscale>0.1930082</xscale>
+      <yscale>0.1930082</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP6" index="1">
+      <file>ca3d.door.swf</file>
+      <x>297.4951748</x>
+      <y>227.9451748</y>
+      <xscale>0.1930082</xscale>
+      <yscale>0.1930082</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP7" index="4">
+      <file>ca3d.windowday.swf</file>
+      <x>215.525</x>
+      <y>133.25</y>
+      <xscale>0.2222231</xscale>
+      <yscale>0.2222231</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="5">
+      <file>ca3d.windowday.swf</file>
+      <x>364.075</x>
+      <y>133.275</y>
+      <xscale>0.2222231</xscale>
+      <yscale>0.2222231</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP10" index="6">
+      <file>ca3d.lockers.swf</file>
+      <x>182.05259</x>
+      <y>307.7241004</y>
+      <xscale>0.3543861</xscale>
+      <yscale>0.3543861</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP12" index="7">
+      <file>ca3d.lockers.swf</file>
+      <x>470.70259</x>
+      <y>311.9741004</y>
+      <xscale>0.3543861</xscale>
+      <yscale>0.3543861</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+<compositebg id="classrooms in really cool school" name="Classrooms (In Really Cool School" thumb="classrooms in really cool school.png" enable="Y" default="Y" is_premium="N" aid="3927" money="0" sharing="0">
+	<bg id="classrooms in really cool school" index="0">
+		<file>ca3d.classrooms.swf</file>
+	</bg>
+        <prop id="PROP3" index="1">
+      <file>ca3d.door.swf</file>
+      <x>178.85259</x>
+      <y>149.3283932</y>
+      <xscale>0.1976051</xscale>
+      <yscale>0.1976051</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="2">
+      <file>ca3d.door.swf</file>
+      <x>271.00259</x>
+      <y>149.2700599</y>
+      <xscale>0.1976051</xscale>
+      <yscale>0.1976051</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP6" index="3">
+      <file>ca3d.door.swf</file>
+      <x>370.45259</x>
+      <y>149.2200599</y>
+      <xscale>0.1976051</xscale>
+      <yscale>0.1976051</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP7" index="4">
+      <file>ca3d.door.swf</file>
+      <x>469.9200599</x>
+      <y>149.3283932</y>
+      <xscale>0.1976051</xscale>
+      <yscale>0.1976051</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="5">
+      <file>ca3d.class sign.swf</file>
+      <x>184.1314947</x>
+      <y>86.2741004</y>
+      <xscale>0.1266362</xscale>
+      <yscale>0.1266362</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP10" index="6">
+      <file>ca3d.class sign.swf</file>
+      <x>274.675</x>
+      <y>86.275</y>
+      <xscale>0.1266362</xscale>
+      <yscale>0.1266362</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP11" index="7">
+      <file>ca3d.class sign2.swf</file>
+      <x>370.475</x>
+      <y>86.275</y>
+      <xscale>0.1563799</xscale>
+      <yscale>0.1563799</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP12" index="8">
+      <file>ca3d.class sign.swf</file>
+      <x>466.325</x>
+      <y>86.275</y>
+      <xscale>0.1266362</xscale>
+      <yscale>0.1266362</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+<compositebg id="mc classroom" name="Mc ClassRoom (Really Cool School)" thumb="mc classroom.png" enable="Y" default="Y" is_premium="N" aid="3928" money="0" sharing="0">
+	<bg id="mc classroom" index="0">
+		<file>ca3d.mc class.swf</file>
+	</bg>
+        <prop id="PROP3" index="1">
+      <file>ca3d.windowday.swf</file>
+      <x>267.9</x>
+      <y>115.7241004</y>
+      <xscale>0.2120131</xscale>
+      <yscale>0.2120131</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="2">
+      <file>ca3d.windowday.swf</file>
+      <x>387</x>
+      <y>115.725</y>
+      <xscale>0.2120131</xscale>
+      <yscale>0.2120131</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP6" index="3">
+      <file>ca3d.borad.swf</file>
+      <x>102.125</x>
+      <y>159.75</y>
+      <xscale>0.1302911</xscale>
+      <yscale>0.2544316</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="4">
+      <file>ca3d.table.swf</file>
+      <x>212.7808151</x>
+      <y>245.4779229</y>
+      <xscale>0.1698501</xscale>
+      <yscale>0.1698501</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="5">
+      <file>ca3d.chair.swf</file>
+      <x>279.5438699</x>
+      <y>242.9113724</y>
+      <xscale>0.1801297</xscale>
+      <yscale>0.1801297</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP12" index="6">
+      <file>ca3d.table.swf</file>
+      <x>353.0954945</x>
+      <y>243.2864843</y>
+      <xscale>0.1698501</xscale>
+      <yscale>0.1698501</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP13" index="7">
+      <file>ca3d.chair.swf</file>
+      <x>419.8585493</x>
+      <y>240.7199339</y>
+      <xscale>0.1801297</xscale>
+      <yscale>0.1801297</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP18" index="8">
+      <file>ca3d.table.swf</file>
+      <x>222.7808151</x>
+      <y>301.6779229</y>
+      <xscale>0.1698501</xscale>
+      <yscale>0.1698501</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP19" index="9">
+      <file>ca3d.chair.swf</file>
+      <x>289.5438699</x>
+      <y>299.1113724</y>
+      <xscale>0.1801297</xscale>
+      <yscale>0.1801297</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP20" index="10">
+      <file>ca3d.table.swf</file>
+      <x>363.0954945</x>
+      <y>299.4864843</y>
+      <xscale>0.1698501</xscale>
+      <yscale>0.1698501</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP21" index="11">
+      <file>ca3d.chair.swf</file>
+      <x>429.8585493</x>
+      <y>296.9199339</y>
+      <xscale>0.1801297</xscale>
+      <yscale>0.1801297</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP22" index="12">
+      <file>ca3d.table.swf</file>
+      <x>493.3808151</x>
+      <y>250.6279229</y>
+      <xscale>0.1698501</xscale>
+      <yscale>0.1698501</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP23" index="13">
+      <file>ca3d.chair.swf</file>
+      <x>560.1438699</x>
+      <y>248.0613724</y>
+      <xscale>0.1801297</xscale>
+      <yscale>0.1801297</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP24" index="14">
+      <file>ca3d.table.swf</file>
+      <x>633.6954945</x>
+      <y>248.4364843</y>
+      <xscale>0.1698501</xscale>
+      <yscale>0.1698501</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP25" index="15">
+      <file>ca3d.chair.swf</file>
+      <x>700.4585493</x>
+      <y>245.8699339</y>
+      <xscale>0.1801297</xscale>
+      <yscale>0.1801297</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+<compositebg id="playground" name="Playground (Really Cool School)" thumb="playground.png" enable="Y" default="Y" is_premium="N" aid="3929" money="0" sharing="0">
+	<bg id="playground" index="0">
+		<file>ca3d.recess.swf</file>
+	</bg>
+        <prop id="PROP3" index="1">
+      <file>ca3d.carpet.swf</file>
+      <x>316.1</x>
+      <y>302.375</y>
+      <xscale>0.5369253</xscale>
+      <yscale>0.2184088</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP4" index="2">
+      <file>ca3d.other pg.swf</file>
+      <x>154.6814947</x>
+      <y>209.6741004</y>
+      <xscale>0.3689998</xscale>
+      <yscale>0.3689998</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="3">
+      <file>ca3d.slide.swf</file>
+      <x>343.1236853</x>
+      <y>209.65</y>
+      <xscale>0.2526337</xscale>
+      <yscale>0.2526337</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+<compositebg id="camping" name="Camping" thumb="camping.png" enable="Y" default="Y" is_premium="N" aid="3930" money="0" sharing="0">
+	<bg id="camping" index="0">
+		<file>ca3d.forest bg.swf</file>
+	</bg>
+        <prop id="PROP3" index="1">
+      <file>ca3d.tree.swf</file>
+      <x>70.10259</x>
+      <y>170.475</y>
+      <xscale>0.2535871</xscale>
+      <yscale>0.2535871</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="2">
+      <file>ca3d.tree.swf</file>
+      <x>135.30259</x>
+      <y>170.475</y>
+      <xscale>0.2535871</xscale>
+      <yscale>0.2535871</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP8" index="3">
+      <file>ca3d.tree.swf</file>
+      <x>207.55259</x>
+      <y>170.475</y>
+      <xscale>0.2535871</xscale>
+      <yscale>0.2535871</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP9" index="4">
+      <file>ca3d.tree.swf</file>
+      <x>272.75259</x>
+      <y>170.475</y>
+      <xscale>0.2535871</xscale>
+      <yscale>0.2535871</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP10" index="5">
+      <file>ca3d.tree.swf</file>
+      <x>341.35259</x>
+      <y>170.475</y>
+      <xscale>0.2535871</xscale>
+      <yscale>0.2535871</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP11" index="6">
+      <file>ca3d.tree.swf</file>
+      <x>406.55259</x>
+      <y>170.475</y>
+      <xscale>0.2535871</xscale>
+      <yscale>0.2535871</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP12" index="7">
+      <file>ca3d.tree.swf</file>
+      <x>459.40259</x>
+      <y>170.475</y>
+      <xscale>0.2535871</xscale>
+      <yscale>0.2535871</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP13" index="8">
+      <file>ca3d.tree.swf</file>
+      <x>524.60259</x>
+      <y>170.475</y>
+      <xscale>0.2535871</xscale>
+      <yscale>0.2535871</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP14" index="9">
+      <file>ca3d.tree.swf</file>
+      <x>589.35259</x>
+      <y>170.475</y>
+      <xscale>0.2535871</xscale>
+      <yscale>0.2535871</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP15" index="10">
+      <file>ca3d.tree.swf</file>
+      <x>654.55259</x>
+      <y>170.475</y>
+      <xscale>0.2535871</xscale>
+      <yscale>0.2535871</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP16" index="11">
+      <file>ca3d.tree.swf</file>
+      <x>168.90259</x>
+      <y>170.475</y>
+      <xscale>0.2535871</xscale>
+      <yscale>0.2535871</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP17" index="12">
+      <file>ca3d.tree.swf</file>
+      <x>234.10259</x>
+      <y>170.475</y>
+      <xscale>0.2535871</xscale>
+      <yscale>0.2535871</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP18" index="13">
+      <file>ca3d.tree.swf</file>
+      <x>305.40259</x>
+      <y>170.475</y>
+      <xscale>0.2535871</xscale>
+      <yscale>0.2535871</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP19" index="14">
+      <file>ca3d.tree.swf</file>
+      <x>370.60259</x>
+      <y>170.475</y>
+      <xscale>0.2535871</xscale>
+      <yscale>0.2535871</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP20" index="15">
+      <file>ca3d.tree.swf</file>
+      <x>431.05259</x>
+      <y>170.475</y>
+      <xscale>0.2535871</xscale>
+      <yscale>0.2535871</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP21" index="16">
+      <file>ca3d.tree.swf</file>
+      <x>496.25259</x>
+      <y>170.475</y>
+      <xscale>0.2535871</xscale>
+      <yscale>0.2535871</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP22" index="17">
+      <file>ca3d.tree.swf</file>
+      <x>552.95259</x>
+      <y>170.475</y>
+      <xscale>0.2535871</xscale>
+      <yscale>0.2535871</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP23" index="18">
+      <file>ca3d.tree.swf</file>
+      <x>618.15259</x>
+      <y>170.475</y>
+      <xscale>0.2535871</xscale>
+      <yscale>0.2535871</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP24" index="19">
+      <file>ca3d.tree.swf</file>
+      <x>103.70259</x>
+      <y>170.475</y>
+      <xscale>0.2535871</xscale>
+      <yscale>0.2535871</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP25" index="20">
+      <file>ca3d.tree.swf</file>
+      <x>168.90259</x>
+      <y>170.475</y>
+      <xscale>0.2535871</xscale>
+      <yscale>0.2535871</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP26" index="21">
+      <file>ca3d.msp_fire.msp_fire_has.swf</file>
+      <x>329.1814947</x>
+      <y>219.4741004</y>
+      <xscale>0.5162277</xscale>
+      <yscale>0.5162277</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+<compositebg id="hallways2" name="Bathrooms (Really Cool School)" thumb="hallways2.png" enable="Y" default="Y" is_premium="N" aid="3931" money="0" sharing="0">
+	<bg id="hallways2" index="0">
+		<file>ca3d.hallways2.swf</file>
+	</bg>
+        <prop id="PROP3" index="1">
+      <file>ca3d.blue bathroom.swf</file>
+      <x>207.80259</x>
+      <y>133.025</y>
+      <xscale>0.3426173</xscale>
+      <yscale>0.3426173</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="2">
+      <file>ca3d.pink bathrooms.swf</file>
+      <x>396.75259</x>
+      <y>133.025</y>
+      <xscale>0.3426173</xscale>
+      <yscale>0.3426173</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+<compositebg id="girls bathrooms" name="Girl's Bathroom (Really Cool School)" thumb="girls bathrooms.png" enable="Y" default="Y" is_premium="N" aid="3932" money="0" sharing="0">
+	<bg id="girls bathrooms" index="0">
+		<file>ca3d.girl.swf</file>
+	</bg>
+        <prop id="PROP3" index="3">
+      <file>ca3d.door left.swf</file>
+      <x>146.95259</x>
+      <y>242.625</y>
+      <xscale>0.4783071</xscale>
+      <yscale>0.5304686</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP4" index="2">
+      <file>ca3d.sink.swf</file>
+      <x>322</x>
+      <y>242.575</y>
+      <xscale>0.3837915</xscale>
+      <yscale>0.3837915</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="1">
+      <file>ca3d.totliet.swf</file>
+      <x>494.3236853</x>
+      <y>217.8241004</y>
+      <xscale>0.3846416</xscale>
+      <yscale>0.3846416</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+<compositebg id="boy's bathroom" name="Boy's Bathroom (Really Cool School)" thumb="boy's bathroom.png" enable="Y" default="Y" is_premium="N" aid="3933" money="0" sharing="0">
+	<bg id="boy's bathroom" index="0">
+		<file>ca3d.boy.swf</file>
+	</bg>
+        <prop id="PROP3" index="3" attached="Y">
+      <file>ca3d.door left.swf</file>
+      <x>146.95259</x>
+      <y>242.625</y>
+      <xscale>0.4783071</xscale>
+      <yscale>0.5304686</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP4" index="2" attached="Y">
+      <file>ca3d.sink.swf</file>
+      <x>322</x>
+      <y>242.575</y>
+      <xscale>0.3837915</xscale>
+      <yscale>0.3837915</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP5" index="1" attached="Y">
+      <file>ca3d.totliet.swf</file>
+      <x>494.3236853</x>
+      <y>217.8241004</y>
+      <xscale>0.3846416</xscale>
+      <yscale>0.3846416</yscale>
+      <face>-1</face>
+      <rotation>0</rotation>
+    </prop>
+</compositebg>
+        <prop id="road.swf" name="Road" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="redbluehouse1.swf" name="RedBlueHouse1" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="redbluehouse2.swf" name="RedBlueHouse2" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="windowday.swf" name="Windowday" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="windownight.swf" name="Windownight" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="door.swf" name="Door" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="cloud.swf" name="Cloud" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="carpet.swf" name="Carpet" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="table.swf" name="Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="chair.swf" name="Chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="refrigerator.swf" name="Refrigerator" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="refrigerator open.swf" name="Refrigerator Open" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="oven.swf" name="Oven" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="sofa.swf" name="Sofa" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="sofa left.swf" name="Sofa Left" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="tv.swf" name="TV" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="sign.swf" name="Christian A Room Sign" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="bed.swf" name="Bed" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="blanket.swf" name="Blanket" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="laptop.swf" name="Laptop" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="rainbowbuild.swf" name="RainbowBuild" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="mccag signs.swf" name="McCAG Signs" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="mccag text signs.swf" name="McCAG Text Signs" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="blue boat.swf" name="Blue Boat" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="lunch table.swf" name="Lunch Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="customer boy.swf" name="Customer Boy" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="customer girl.swf" name="Customer Girl" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="burger.swf" name="Burger" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="msp_mccag_fries" name="McCAG Fries!" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_mccag_fries_full.swf" enable="Y" is_premium="N" aid="8237" money="0" sharing="0">
+		<state id="msp_mccag_fries_full.swf" name="Full" enable="Y" default="Y"/>
+		<state id="msp_mccag fries_empty.swf" name="Empty" enable="Y"/>
+                <state id="msp_mccag fries_disgusted.swf" name="Disgusted" enable="Y"/>
+                <state id="msp_mccag fries_burn.swf" name="Burn" enable="Y"/>
+	</prop>
+        <prop id="kitcken table.swf" name="Kitchen Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="mccag milkshake.swf" name="McCAG Milkshake!" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="mccag toy.swf" name="McCAG Toy!" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="sun.swf" name="Sun" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="msp_mccag_chicken nuggets" name="McCAG Nuggets!" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_mccag_chicken nuggets_closed.swf" enable="Y" is_premium="N" aid="8237" money="0" sharing="0">
+		<state id="msp_mccag_chicken nuggets_closed.swf" name="Closed" enable="Y" default="Y"/>
+		<state id="msp_mccag_chicken nuggets_empty.swf" name="Empty" enable="Y"/>
+                <state id="msp_mccag_chicken nuggets_open.swf" name="Open" enable="Y"/>
+                <state id="msp_mccag_chicken nuggets_burn.swf" name="Burn" enable="Y"/>
+	</prop>
+        <prop id="shop.swf" name="Shop" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="cag shop signs.swf" name="ChrisAyaoGamer Shop Signs!" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="red building.swf" name="Red Building" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="yellow building.swf" name="Yellow Building" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="msp_clothes" name="CAG Shop Clothes" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_clothes.swf" enable="Y" is_premium="N" aid="8237" money="0" sharing="0">
+		<state id="msp_clothes.swf" name="Has Clothes" enable="Y" default="Y"/>
+		<state id="msp_clothes_empty.swf" name="Empty" enable="Y"/>
+	</prop>
+        <prop id="clothes2.swf" name="Clothes2" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="school.swf" name="School" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="wall.swf" name="Wall" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="lockers.swf" name="Lockers" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="class sign.swf" name="Class Sign" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="class sign2.swf" name="Class Sign2" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="borad.swf" name="Borad" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="slide.swf" name="Slide" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="other pg.swf" name="Other PG!" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="tree.swf" name="Tree" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="msp_fire" name="Fire" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_fire_has.swf" enable="Y" is_premium="N" aid="8237" money="0" sharing="0">
+		<state id="msp_fire_has.swf" name="Its Fire" enable="Y" default="Y"/>
+		<state id="msp_fire_went out.swf" name="Went Out" enable="Y"/>
+	</prop>
+        <prop id="blue bathroom.swf" name="Blue Bathroom" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="pink bathrooms.swf" name="Pink Bathroom" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="totliet.swf" name="Totliet" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="sink.swf" name="Sink" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+        <prop id="door left.swf" name="Door Left" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8237" money="0" sharing="0"/>
+</theme>
