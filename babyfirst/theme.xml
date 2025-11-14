@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme id="babyfirst" name="BabyFirst TV">
+	<char id="blossom" name="Blossom" thumb="idle.swf" facing="left" default="idle.swf" motion="fly.swf" enable="Y" is_premium="N" aid="9001" money="0" sharing="0">
+		<action id="angry.swf" name="Angry" loop="Y" totalframe="48" enable="Y" aid="90036"/>
+		<action id="cry.swf" name="Crying" loop="Y" totalframe="119" enable="Y" aid="90036"/>
+		<action id="fly.swf" name="Flying" loop="Y" totalframe="2" enable="Y" aid="90036"/>
+		<action id="frown.swf" name="Frowning" loop="Y" totalframe="48" enable="Y" aid="90036"/>
+		<action id="furious.swf" name="Furious" loop="Y" totalframe="48" enable="Y" aid="90036"/>
+		<action id="idle.swf" name="Idle" loop="Y" totalframe="48" enable="Y" aid="90036"/>
+		<action id="laugh.swf" name="Laugh" loop="Y" totalframe="9" enable="Y" aid="90036"/>
+		<action id="lookback.swf" name="Look Back" loop="N" totalframe="80" enable="Y" aid="90036"/>
+		<action id="sad.swf" name="Sad" loop="Y" totalframe="48" enable="Y" aid="90036"/>
+		<action id="scream.swf" name="Screaming" loop="Y" totalframe="120" enable="Y" aid="90036"/>
+		<action id="shocked.swf" name="Shocked" loop="N" totalframe="48" enable="Y" aid="90036"/>
+		<action id="shocked2.swf" name="Shocked 2" loop="N" totalframe="82" enable="Y" aid="90036"/>
+		<action id="talk.swf" name="Talk" loop="Y" totalframe="13" enable="Y" aid="90036"/>
+		<action id="talkangry.swf" name="Angry Talk" loop="Y" totalframe="13" enable="Y" aid="90036"/>
+		<action id="talkfrown.swf" name="Frown Talk" loop="Y" totalframe="13" enable="Y" aid="90036"/>
+		<action id="talksad.swf" name="Sad Talk" loop="Y" totalframe="13" enable="Y" aid="90036"/>
+		<action id="what.swf" name="WHAT?!" loop="N" totalframe="98" enable="Y" aid="90036"/>
+		</char>
+	<char id="petey" name="Petey the Paintbrush" thumb="idle.swf" facing="left" default="idle.swf" motion="idle.swf" enable="Y" is_premium="N" aid="9001" money="0" sharing="0">
+		<action id="idle.swf" name="Idle" loop="Y" totalframe="48" enable="Y" aid="90036"/>
+		</char>
+	<background id="harry_garden.swf" name="Harry's Garden" enable="Y" is_premium="N" aid="9999" money="0" sharing="0" />
+	<background id="harry_room.swf" name="Harry's Room" enable="Y" is_premium="N" aid="9999" money="0" sharing="0" />
+	<background id="harry_room_2.swf" name="Harry's Room 2" enable="Y" is_premium="N" aid="9999" money="0" sharing="0" />
+	<background id="screensaver.swf" name="Screensaver Background" enable="Y" is_premium="N" aid="9999" money="0" sharing="0" />
+	<prop id="bubble.swf" name="Bubble" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+	<prop id="bubble_blower.swf" name="Bubble Blower" holdable="1" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+	<prop id="rocking_horse.swf" name="Rocking Horse" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+	<prop id="slide.swf" name="Slide" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+	<prop id="watering_can.swf" name="Watering Can" holdable="1" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+	</theme>

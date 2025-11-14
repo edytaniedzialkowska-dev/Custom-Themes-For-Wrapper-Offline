@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme id="bus" name="MPK Bus's World">
+        <background id="busstop.swf" name="Bus Stop"/>
+        <background id="businside.swf" name="Bus Inside"/>
+        <background id="busoutside.swf" name="Bus Outside"/>
+        <char id="mpk" name="MPK" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="60" money="0" sharing="0">
+        <tag>cat:MPK's Characters</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="mpk_new" name="MPK Autobus" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="60" money="0" sharing="0">
+        <tag>cat:MPK's Characters</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+</theme>
