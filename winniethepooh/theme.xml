@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme id="winniethepooh" name="Winnie The Pooh">
+        <background id="1.jpg" name="House"/>
+        <background id="2.jpg" name="House With Friends"/>
+        <background id="3.jpg" name="Winnie The Pooh's Honey!"/>
+	<char id="pooh" name="Pooh (Kubus)" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+		<action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+                <action id="crying.swf" name="Cry" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+                <action id="angry.swf" name="Angry" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+                <action id="talk.swf" name="Talking" loop="Y" totalframe="50" enable="Y" aid="8264"/>
+	</char>
+        <char id="piglet" name="Piglet" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+		<action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+                <action id="crying.swf" name="Cry" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+                <action id="angry.swf" name="Angry" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+                <action id="talk.swf" name="Talking" loop="Y" totalframe="50" enable="Y" aid="8264"/>
+	</char>
+        <prop id="Plush.png" name="Plush" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8240" money="0" sharing="0"/>
+        <prop id="Book.png" name="Book" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="8240" money="0" sharing="0"/>
+</theme>
