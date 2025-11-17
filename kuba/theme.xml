@@ -44,17 +44,6 @@
         <action id="plush.swf" name="Plush" loop="Y" totalframe="1" enable="Y" aid="60"/>
         </category>
 	</char>
-        <char id="reallifekuba_old" name="Real Life Kuba (Old)" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="60" money="0" sharing="0">
-        <tag>cat:Kuba's Characters</tag>
-        <category name="Actions">
-        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
-        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
-        <action id="sad.swf" name="Sad" loop="Y" totalframe="1" enable="Y" aid="60"/>
-        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
-        <action id="cry.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
-        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
-        </category>
-	</char>
         <char id="reallifekuba" name="Real Life Kuba" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="60" money="0" sharing="0">
         <tag>cat:Kuba's Characters</tag>
         <category name="Actions">
