@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme id="dandy" name="Dandy's World Theme">
+	<char id="dandy" name="Dandy" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="9001" money="0" sharing="0">
+                <tag>cat:Stock Characters</tag>
+		<category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="71" enable="Y" aid="60"/>
+	</category>
+        <category name="Actions">
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="71" enable="Y" aid="60"/>
+        <action id="cry.swf" name="Crying" loop="Y" totalframe="71" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="71" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="71" enable="Y" aid="60"/>
+        </category>
+        </char>
+        <char id="astro" name="Astro" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="9001" money="0" sharing="0">
+                <tag>cat:Stock Characters</tag>
+		<category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="71" enable="Y" aid="60"/>
+	</category>
+        <category name="Actions">
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="71" enable="Y" aid="60"/>
+        <action id="cry.swf" name="Crying" loop="Y" totalframe="71" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="71" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="71" enable="Y" aid="60"/>
+        </category>
+        </char>
+        <char id="vee" name="Vee" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="9001" money="0" sharing="0">
+                <tag>cat:Stock Characters</tag>
+		<category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="71" enable="Y" aid="60"/>
+	</category>
+        <category name="Actions">
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="71" enable="Y" aid="60"/>
+        <action id="cry.swf" name="Crying" loop="Y" totalframe="71" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="71" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="71" enable="Y" aid="60"/>
+        </category>
+        </char>
+        <char id="sprout" name="Sprout" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="9001" money="0" sharing="0">
+                <tag>cat:Stock Characters</tag>
+		<category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="71" enable="Y" aid="60"/>
+	</category>
+        <category name="Actions">
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="71" enable="Y" aid="60"/>
+        <action id="cry.swf" name="Crying" loop="Y" totalframe="71" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="71" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="71" enable="Y" aid="60"/>
+        </category>
+        </char>
+        <char id="bassie" name="Bassie" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="9001" money="0" sharing="0">
+                <tag>cat:Stock Characters</tag>
+		<category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="71" enable="Y" aid="60"/>
+	</category>
+        <category name="Actions">
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="71" enable="Y" aid="60"/>
+        <action id="cry.swf" name="Crying" loop="Y" totalframe="71" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="71" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="71" enable="Y" aid="60"/>
+        </category>
+        </char>
+        <char id="shelly" name="Shelly" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="9001" money="0" sharing="0">
+                <tag>cat:Stock Characters</tag>
+		<category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="71" enable="Y" aid="60"/>
+	</category>
+        <category name="Actions">
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="71" enable="Y" aid="60"/>
+        <action id="cry.swf" name="Crying" loop="Y" totalframe="71" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="71" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="71" enable="Y" aid="60"/>
+        </category>
+        </char>
+<background id="Floor1.jpg" name="Floor1"/>
+<background id="Floor2.jpg" name="Floor2"/>
+<background id="Floor3.jpg" name="Floor3"/>
+<background id="Floor4.jpg" name="Floor4"/>
+<background id="Floor5.jpg" name="Floor5"/>
+<background id="Floor6.jpg" name="Floor6"/>
+<background id="Floor7.jpg" name="Floor7"/>
+<background id="Floor8.jpg" name="Floor8"/>
+<prop id="Speed_Candy.png" name="Speed_Candy" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="9004" money="0" sharing="0"/>
+<prop id="Tapes.png" name="Tapes" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="9004" money="0" sharing="0"/>
+<prop id="Gumballs.png" name="Gumballs" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="9004" money="0" sharing="0"/>
+<prop id="Chocolate.png" name="Chocolate" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="9004" money="0" sharing="0"/>
+<prop id="Protein_Bar.png" name="Protein_Bar" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="9004" money="0" sharing="0"/>
+<prop id="Instructions.png" name="Instructions" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="9004" money="0" sharing="0"/>
+<prop id="Air_Horn.png" name="Air_Horn" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="9004" money="0" sharing="0"/>
+<prop id="Bottle_Pop.png" name="Bottle_Pop" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="9004" money="0" sharing="0"/>
+<prop id="Box_Chocolates.png" name="Box_Chocolates" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="9004" money="0" sharing="0"/>
+<prop id="Health_Kit.png" name="Health_Kit" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="9004" money="0" sharing="0"/>
+<prop id="Eject_Button.png" name="Eject_Button" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="9004" money="0" sharing="0"/>
+<prop id="Pop.png" name="Pop" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="9004" money="0" sharing="0"/>
+<prop id="Stealth_Candy.png" name="Stealth_Candy" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="9004" money="0" sharing="0"/>
+<prop id="Stamina_Candy.png" name="Stamina_Candy" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="9004" money="0" sharing="0"/>
+<prop id="Research.png" name="Research" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="9004" money="0" sharing="0"/>
+</theme>
